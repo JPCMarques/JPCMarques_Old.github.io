@@ -1,0 +1,4 @@
+markdown: redcarpet
+baseurl: ""
+exclude: ["README.md"]
+title: JPCMarques' personal website
