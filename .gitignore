@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Jekyll template
+_site/
+.sass-cache/
+.jekyll-metadata
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
