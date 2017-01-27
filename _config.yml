@@ -11,3 +11,4 @@ sass:
 
 collections:
     nav-headers:
+      output: true
