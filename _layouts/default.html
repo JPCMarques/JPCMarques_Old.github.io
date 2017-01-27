@@ -12,7 +12,7 @@
     <nav class="{{page.headerClass}}" style="position: absolute; right: 0; top: 0; transform: translate(0, 150%)">
         <a href="{{site.baseurl}}/" class="{{page.headerClass}}">Home</a>
         {% for navHeader in site.nav-headers %}
-        <a href="{{site.baseurl}}/nav-headers/about/" class="{{page.headerClass}}">{{navHeader.title}}</a>
+        <a href="/{{site.baseurl}}/nav-headers/about/" class="{{page.headerClass}}">{{navHeader.title}}</a>
         {% endfor %}
     </nav>
 </header>
