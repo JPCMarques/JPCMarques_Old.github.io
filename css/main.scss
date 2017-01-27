@@ -1,0 +1,24 @@
+---
+---
+@import "fonts";
+@import "dimens";
+@import "colors";
+
+.header-text {
+  font-family: $header_font, monospace;
+  color: $header_color;
+  text-decoration: none;
+}
+
+.regular-text {
+  font-family: $text_font, sans-serif;
+  color: $text_color;
+  margin-left: 5% ;
+}
+
+.homepage-body {
+  position: fixed;
+  width: $item_width;
+  left: 50%;
+  transform: translate(-50%);
+}

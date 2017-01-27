@@ -2,17 +2,28 @@
 <html lang="en-ca">
 <head>
     <meta charset="utf-8">
+    <link rel="stylesheet" href="/css/main.css"/>
     <title>{{page.title}}</title>
 </head>
 <body class="{{page.bodyClass}}">
-<header>
-    <h1></h1>
-    <nav></nav>
+
+<header style="position: relative;">
+    <h1 style="float:left" class="{{page.headerClass}}">{{page.title}}</h1>
+    <nav class="{{page.headerClass}}" style="position: absolute; right: 0; top: 0; transform: translate(0, 150%)">
+        <a href="{{site.baseurl}}/" class="{{page.headerClass}}">Home</a>
+        {% for navHeader in site.nav-headers %}
+        <a href="{{site.baseurl}}/{{navHeader.url}}" class="{{page.headerClass}}">{{navHeader.title}}</a>
+        {% endfor %}
+    </nav>
 </header>
 
+<hr style="clear:both">
+
 <main>
-    {{content}}
+    <div class="{{page.contentClass}}">{{content}}</div>
 </main>
+
+<hr>
 
 <footer>
     <p>©</p>
