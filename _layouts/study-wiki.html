@@ -1,0 +1,13 @@
+---
+layout: main-page
+---
+
+{{content}}
+
+<strong>Available content:</strong>
+<br>
+<ul>
+{% for subject in site.study-wiki %}
+    <li><a href="{{site.baseurl}}{{subject.url}}">{{subject.title}}</a></li>
+{% endfor %}
+</ul>

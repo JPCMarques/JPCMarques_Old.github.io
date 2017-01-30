@@ -17,8 +17,20 @@
 }
 
 .homepage-body {
-  position: fixed;
+  position: relative;
   width: $item_width;
+  height: 100%;
   left: 50%;
+  overflow: auto;
   transform: translate(-50%);
+}
+
+.sidebar {
+  border-radius: 2px;
+  border: 1px solid lightgray;
+}
+
+a {
+  @extend .header-text;
+  color: #1e6bb8;
 }

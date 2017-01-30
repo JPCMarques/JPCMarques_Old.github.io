@@ -3,17 +3,15 @@
 <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="/css/main.css"/>
+    {% contentblock links %}
     <title>{{page.title}}</title>
 </head>
-<body class="{{page.bodyClass}}">
+<body class="homepage-body">
 
-<header style="position: relative;">
+<header style="position: relative">
     <h1 style="float:left" class="{{page.headerClass}}">{{page.title}}</h1>
-    <nav class="{{page.headerClass}}" style="position: absolute; right: 0; top: 0; transform: translate(0, 150%)">
-        <a href="{{site.baseurl}}/" class="{{page.headerClass}}">Home</a>
-        {% for navHeader in site.nav-headers %}
-        <a href="/{{site.baseurl}}/nav-headers/about/" class="{{page.headerClass}}">{{navHeader.title}}</a>
-        {% endfor %}
+    <nav class="{{page.headerClass}}" style="float: right; transform: translate(0%, 50%);">
+        {% contentblock navbar %}
     </nav>
 </header>
 
@@ -23,10 +21,10 @@
     <div class="{{page.contentClass}}">{{content}}</div>
 </main>
 
-<hr>
+<hr style="clear:both">
 
-<footer>
-    <p>©</p>
+<footer >
+    <p class="regular-text">Copyright © 2017 JPCMarques</p>
 </footer>
 </body>
 </html>

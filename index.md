@@ -1,7 +1,6 @@
 ---
 title: Home
-layout: default
-bodyClass: homepage-body
+layout: main-page
 contentClass: regular-text
 headerClass: header-text
 ---

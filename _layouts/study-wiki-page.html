@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+
+<div class="{{page.contentClass}}" style="float:left; width:70%;">{{content}}</div>
+<div style="float: right; width: 20%; right:0; margin-top: 5%; font-size: 75%;" class="{{page.sidebarClass}}">
+    {% contentblock sidebar %}
+</div>
+
+
+{% contentfor navbar %}
+<a href="{{site.baseurl}}/study-wiki/" style="padding-left: 10px">Back</a>
+{% endcontentfor %}
