@@ -3,23 +3,12 @@
 <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="/css/main.css"/>
-    {% contentblock links %}
     <title>{{page.title}}</title>
 </head>
 <body class="homepage-body">
 
-<header style="position: relative">
-    <h1 style="float:left" class="{{page.headerClass}}">{{page.title}}</h1>
-    <nav class="{{page.headerClass}}" style="float: right; transform: translate(0%, 50%);">
-        {% contentblock navbar %}
-    </nav>
-</header>
 
-<hr style="clear:both">
-
-<main>
-    <div class="{{page.contentClass}}">{{content}}</div>
-</main>
+{{content}}
 
 <hr style="clear:both">
 

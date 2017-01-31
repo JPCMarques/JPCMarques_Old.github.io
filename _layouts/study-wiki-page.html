@@ -1,14 +1,19 @@
 ---
 layout: default
 ---
+<header style="position: relative">
+    <h1 style="float:left" class="{{page.headerClass}}">{{page.title}}</h1>
+    <nav class="{{page.headerClass}}" style="float: right; transform: translate(0%, 50%);">
+        <a href="{{site.baseurl}}/study-wiki/" style="padding-left: 10px">Back</a>
+    </nav>
+</header>
+
+<hr style="clear:both">
 
 
 <div class="{{page.contentClass}}" style="float:left; width:70%;">{{content}}</div>
-<div style="float: right; width: 20%; right:0; margin-top: 5%; font-size: 75%;" class="{{page.sidebarClass}}">
-    {% contentblock sidebar %}
+<div style="float: right; width: 20%; right:0; margin-top: 5%; font-size: 75%; padding: 5px;" class="{{page.sidebarClass}}">
+    {% for sidebarlink in page.sidebarlinks %}
+        <a href="#{{sidebarlink}}" style="padding-left: 5px; ">{{sidebarlink}}</a><br>
+    {% endfor %}
 </div>
-
-
-{% contentfor navbar %}
-<a href="{{site.baseurl}}/study-wiki/" style="padding-left: 10px">Back</a>
-{% endcontentfor %}

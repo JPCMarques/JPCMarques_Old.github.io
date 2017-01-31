@@ -11,5 +11,3 @@ sass:
 collections:
     study-wiki:
         output: true
-gems:
-    - jekyl-contentblocks

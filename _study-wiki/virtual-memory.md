@@ -5,21 +5,17 @@ bodyClass: homepage-body
 contentClass: regular-text
 headerClass: header-text
 sidebarClass: sidebar
+sidebarlinks:
+    - Introduction
+    - Physical address sharing
+    - Address translation
+    - Page tables
+    - Replacement and writes
+    - Page table dimension
+    - Hierarchical page table
+    - Inverted page table
+    - Virtual addressing with a cache
 ---
-
-{% contentfor sidebar %}
-
-   * [Introduction](#Introduction)
-   * [Physical address sharing](#Physical-address-sharing)
-   * [Address translation](#Address-translation)
-   * [Page tables](#Page-tables)
-   * [Replacement and writes](#Replacement-and-writes)
-   * [Page table dimension](#Page-table-dimension)
-   * [Hierarchical page tables](#Hierarchical-page-table)
-   * [Inverted page tables](#Inverted-page-table)
-   * [Virtual addressing with a cache](#Virtual-addressing-with-a-cache)
-    
-{% endcontentfor %}
 
 <div id="Introduction"></div>
 
@@ -42,7 +38,7 @@ Virtual memory can be simplified in the following points:
 
 
 <br>
-<div id="Physical-address-sharing"></div>
+<div id="Physical address sharing"></div>
 
 ## Physical address sharing ##
 ---
@@ -53,7 +49,7 @@ The starting location of each page in main or secondary memory is kept in the pa
 
 
 <br>
-<div id="Address-translation"></div>
+<div id="Address translation"></div>
 
 ## Address translation ##
 ---
@@ -89,7 +85,7 @@ the bigger it is, the higher the the potential memory waste (average of 50% of p
 * **Full associativity**
 
 <br>
-<div id="Page-tables"></div>
+<div id="Page tables"></div>
 
 ## Page tables ##
 ---
@@ -103,7 +99,7 @@ If a page is present in memory, the Page Table Entry (PTE) stores the physical p
 If a page is not present in memory, the PTE can refer to a location in swap space on disk
 
 <br>
-<div id="Replacement-and-writes"></div>
+<div id="Replacement and writes"></div>
 
 ### Replacement and Writes ###
 ---
@@ -120,7 +116,7 @@ Disk writes take millions of cycles:
 * Set dirty bit in PTE to 1 when page is written
 
 <br>
-<div id="Page-table-dimension"></div>
+<div id="Page table dimension"></div>
 
 ### Page table dimension ###
 ---
@@ -137,7 +133,7 @@ Example:
 Table will have 2<sup>20</sup> (2<sup>32-12</sup>) entries, each with 4 bytes, thus occupying 4 Mbytes.
 
 <br>
-<div id="Hierarchical-page-table"></div>
+<div id="Hierarchical page table"></div>
 
 ### Hierarchical page table ###
 ---
@@ -174,7 +170,7 @@ This approach is usually adopted with the following parameters:
 Do note, however, that the levels can be divided into different size indexes.
 
 <br>
-<div id="Inverted-page-table"></div>
+<div id="Inverted page table"></div>
 
 ### Inverted page table ###
 ---
@@ -189,7 +185,7 @@ pairs **virtual page-physical page** whose corresponding virtual addresses lead 
 The size of Inverted Page Table is proportional to the size of the physical address space.
 
 <br>
-<div id="Virtual-addressing-with-a-cache"></div>
+<div id="Virtual addressing with a cache"></div>
 
 ### Virtual addressing with a cache ###
 ---

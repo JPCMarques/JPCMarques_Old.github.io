@@ -4,7 +4,7 @@ layout: main-page
 contentClass: regular-text
 headerClass: header-text
 ---
-#HI
+# HI #
 
 Welcome to my website!
 

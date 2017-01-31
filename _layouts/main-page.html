@@ -1,13 +1,19 @@
 ---
 layout: default
 ---
+<header style="position: relative">
+    <h1 style="float:left" class="{{page.headerClass}}">{{page.title}}</h1>
+    <nav class="{{page.headerClass}}" style="float: right; transform: translate(0%, 50%);">
+        <a href="{{site.baseurl}}/" style="padding-left: 10px">Home</a>
+        <a href="{{site.baseurl}}/about/" style="padding-left: 10px">About</a>
+        <a href="{{site.baseurl}}/light-novels/" style="padding-left: 10px">Light Novels</a>
+        <a href="{{site.baseurl}}/study-wiki/" style="padding-left: 10px">Study Wiki</a>
+        <a href="{{site.baseurl}}/applications/" style="padding-left: 10px">Apps</a>
+    </nav>
+</header>
 
-{{content}}
+<hr style="clear:both">
 
-{% contentfor navbar %}
-<a href="{{site.baseurl}}/" style="padding-left: 10px">Home</a>
-<a href="{{site.baseurl}}/about/" style="padding-left: 10px">About</a>
-<a href="{{site.baseurl}}/light-novels/" style="padding-left: 10px">Light Novels</a>
-<a href="{{site.baseurl}}/study-wiki/" style="padding-left: 10px">Study Wiki</a>
-<a href="{{site.baseurl}}/applications/" style="padding-left: 10px">Apps</a>
-{% endcontentfor %}
+<main>
+    <div class="{{page.contentClass}}">{{content}}</div>
+</main>
