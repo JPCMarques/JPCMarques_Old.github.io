@@ -5,8 +5,7 @@ contentClass: regular-text
 headerClass: header-text
 ---
 
-Hi
-===
+# Hi #
 
 I am a Computer Science student interested in all things that involve programming. I am 22 years old and this site was
 designed with the intent of being both a virtual resume, and a hosting place for all my projects.
@@ -23,3 +22,5 @@ I also dabble a little in writing light novels (as poorly as that might be) and 
 light novels, manga, anything that can pique my interest.
 
 Hope you enjoy my website and projects!
+
+[My Resume](resume)

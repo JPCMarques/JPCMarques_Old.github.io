@@ -34,3 +34,20 @@ a {
   @extend .header-text;
   color: #1e6bb8;
 }
+
+table{
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+th{
+  border:1px solid #000000;
+  padding: 5px;
+  background-color: lightgray;
+}
+
+td{
+  border:1px solid #000000;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}

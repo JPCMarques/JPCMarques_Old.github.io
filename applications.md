@@ -7,6 +7,8 @@ headerClass: header-text
 
 {% for app in site.apps %}
 # {{app.title}} #
+
+---
     
 {{app.content}}
 

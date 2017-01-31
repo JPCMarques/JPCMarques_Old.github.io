@@ -3,7 +3,7 @@ layout: default
 ---
 <header style="position: relative">
     <h1 style="float:left" class="{{page.headerClass}}">{{page.title}}</h1>
-    <nav class="{{page.headerClass}}" style="float: right; transform: translate(0%, 50%);">
+    <nav class="{{page.headerClass}}" style="float: right; transform: translate(0%, 150%);">
         {% for navbar-data in page.navbar %}
         {% for navbar-item in navbar-data %}
         <a href="{{site.baseurl}}/{{navbar-item[1]}}/" style="padding-left: 10px">{{navbar-item[0]}}</a>
