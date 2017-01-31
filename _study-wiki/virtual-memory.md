@@ -1,10 +1,12 @@
 ---
-layout: study-wiki-page
+layout: subpage
 title: Virtual Memory
 bodyClass: homepage-body
 contentClass: regular-text
 headerClass: header-text
 sidebarClass: sidebar
+navbar:
+    - Back: study-wiki
 sidebarlinks:
     - Introduction
     - Physical address sharing
@@ -34,8 +36,6 @@ Virtual memory can be simplified in the following points:
 * CPU and OS translate the virtual address to the physical address.
     * A block is called a page
     * A translation miss is called page fault
-
-
 
 <br>
 <div id="Physical address sharing"></div>
