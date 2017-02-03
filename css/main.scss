@@ -13,6 +13,8 @@
 .regular-text {
   font-family: $text_font, sans-serif;
   color: $text_color;
+  text-align: justify;
+  text-justify: inter-word;
   margin-left: 5% ;
 }
 
@@ -35,6 +37,14 @@ a {
   color: #1e6bb8;
 }
 
+header {
+  @extend .header-text;
+}
+
+main {
+  @extend .regular-text
+}
+
 table{
   border-collapse: collapse;
   border-spacing: 0;
@@ -50,4 +60,14 @@ td{
   border:1px solid #000000;
   padding-top: 5px;
   padding-bottom: 5px;
+}
+
+@media print {
+  /* Print styles go here */
+  .header {
+    display: hidden;
+  }
+  .footer {
+    display: hidden;
+  }
 }

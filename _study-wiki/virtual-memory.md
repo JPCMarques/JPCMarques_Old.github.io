@@ -2,8 +2,6 @@
 layout: subpage
 title: Virtual Memory
 bodyClass: homepage-body
-contentClass: regular-text
-headerClass: header-text
 sidebarClass: sidebar
 navbar:
     - Back: study-wiki

@@ -1,0 +1,21 @@
+---
+layout: subpage
+---
+<br>
+<br>
+
+<strong><a href="{{site.baseurl}}{{page.id}}/world-building/">World Building</a></strong>
+
+<br>
+
+{{content}}
+
+<h2>Chapters</h2>
+<ul>
+{% for chapter in page.chapters %}
+    {% for chapter-data in chapter %}
+
+   <li><a href="{{site.baseurl}}{{page.url}}/{{chapter-data[1]}}">{{chapter-data[0]}}</a> </li>
+    {% endfor %}
+{% endfor %}
+</ul>

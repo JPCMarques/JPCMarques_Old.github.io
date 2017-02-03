@@ -24,3 +24,5 @@ light novels, manga, anything that can pique my interest.
 Hope you enjoy my website and projects!
 
 [My Resume](resume)
+
+[Full CV](full-cv)

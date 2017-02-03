@@ -2,8 +2,8 @@
 layout: default
 ---
 <header style="position: relative">
-    <h1 style="float:left" class="{{page.headerClass}}">{{page.title}}</h1>
-    <nav class="{{page.headerClass}}" style="float: right; transform: translate(0%, 150%);">
+    <h1 style="float:left" class="header-text">{{page.title}}</h1>
+    <nav class="header-text" style="float: right; transform: translate(0%, 150%);">
         {% for navbar-data in page.navbar %}
         {% for navbar-item in navbar-data %}
         <a href="{{site.baseurl}}/{{navbar-item[1]}}/" style="padding-left: 10px">{{navbar-item[0]}}</a>
@@ -14,10 +14,13 @@ layout: default
 
 <hr style="clear:both">
 
-
-<div class="{{page.contentClass}}" style="float:left; width:70%;">{{content}}</div>
+{% if page.sidebarlinks == nil %}
+<div class="regular-text">{{content}}</div>
+{% else %}
+<div class="regular-text" style="float:left; width:70%;">{{content}}</div>
 <div style="float: right; width: 20%; right:0; margin-top: 5%; font-size: 75%; padding: 5px;" class="{{page.sidebarClass}}">
     {% for sidebarlink in page.sidebarlinks %}
         <a href="#{{sidebarlink}}" style="padding-left: 5px; ">{{sidebarlink}}</a><br>
     {% endfor %}
 </div>
+{% endif %}

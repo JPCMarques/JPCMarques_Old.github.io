@@ -1,0 +1,19 @@
+---
+layout: main-page
+---
+
+{{content}}
+
+<strong>Available content:</strong>
+<br>
+<ul>
+    {% for light-novel in site.light-novels %}
+    <li><a href="{{site.baseurl}}{{light-novel.url}}">{{light-novel.title}}</a>
+        {% if light-novel.sinopse != nil %}
+        <br>
+        {{light-novel.sinopse}}
+        {% endif %}
+        <br>
+    </li>
+    {% endfor %}
+</ul>

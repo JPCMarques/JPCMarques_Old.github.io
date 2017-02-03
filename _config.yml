@@ -13,3 +13,9 @@ collections:
         output: true
     apps:
         output: false
+    light-novels:
+        output: true
+        permalink: /light-novels/:title/
+    world-building:
+        output: true
+        permalink: /light-novels/:title/world-building
