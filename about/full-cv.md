@@ -102,7 +102,7 @@ Android application (deployed on Google Play) to easen the grind for a bossing t
 
 ## [My Personal Website](https://jpcmarques.github.io) ##
 
-A website to host all my personal projects, like light novels, applications, and so forth.
+A website to host all my personal projects, like light novels, applications, and so forth, hosted at Github Pages.
 
 # Contacts #
 
@@ -113,5 +113,7 @@ A website to host all my personal projects, like light novels, applications, and
 * Email: joao.p.c.m@hotmail.com
 
 Further contacts will be provided as requested.
+
+[Download]({{site.url}}/downloads/FullCV.pdf)
 
 [^1]: CEFR level C2
