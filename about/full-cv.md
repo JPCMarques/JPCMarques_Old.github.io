@@ -93,7 +93,7 @@ Had to handle log ins to facebook (and boomApp's own login server), communicate 
 
 Centralized library application for Runescape-related apps. Will include accessors for monster, skill, and any other useful data which will be provided in the 
 form of JSON Strings and String arrays and, eventually, an API to be included on my [personal website](https://jpcmarques.github.io).
-
+    
 
 ## [IFBCompanion](https://jpcmarques.github.io/applications/#IFBCompanion) ##
 
