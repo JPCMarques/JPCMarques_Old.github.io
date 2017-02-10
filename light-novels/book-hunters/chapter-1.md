@@ -2,7 +2,9 @@
 layout: subpage
 navbar:
     - Back: light-novels/book-hunters
-title: The Original 
+title: The Infinite Book
+comments: true
+id: chapter-1
 ---
 <br>
 <br>
@@ -69,12 +71,81 @@ title: The Original
    
    Next, he tried to punch the same book.
    
-   *Strange. I expected it not to move when I hit it, but I didn't get hurt either trying to punch it! What the fuck is going on?!*
+   *Strange. I expected it not to move when I hit it, but I didn't get hurt trying to punch it, either! What the fuck is going on?!*
    
    At that point, he truly began to feel scared. He was trapped, like a bird in a cage, with cold sweat dripping from near
    the corner of his eyes. Panicking, he threw more and more punches, all with no effect.
    
-   After pointlessly exhausting himself, he sat on the floor, with his harms over his knees and his sweat falling on the floor,
+   After pointlessly exhausting himself, he sat on the floor, with his arms over his knees and his sweat falling on the floor,
    without mixing with the dust, instead just laying there in tiny pools, without even touching the dust on the floor.
+   
+   *I'm not in the library anymore! This is a place entirely different, where I can't affect reality!*
+   
+   He ran into the walls. They didn't budge, but he didn't feel pain either. Instead, he just bounced back.
+   
+   *On the bright side, this means there is definitely something of value here. Otherwise there wouldn't be such an intricate trap here.*
+   *On the other hand, I'm probably going to die here.*
+   
+   <center>&diams;</center>
+   
+   Time passed, for what felt like days. Most of his status augments (time, location, life form scanners...) weren't working at all.
+   He felt tired from several tries of breaking the trap. Even worse, he was thirsty and hungry, with hardly any emergency supplies.
+   
+   Laying down on the floor he thought:
+   
+   *This is probably the slowest, most boring, way to go. I should probably rest and hope someone comes to save me.*
+   
+   He closed his eyes, and felt his consciousness slowly fade away.
+   
+   *Who are you, and why are you invading my domain?* - an ominous voice echoed in his mind.
+   
+   *What the fuck?!*
+   
+   *Well, what the fuck, what are you doing here?*
+   
+   *My name is not... never mind. You were the one that trapped me in here. It's not like I tried to get here.*
+   
+   *That's impossible. My trap is set to activate when someone attempts to invade the sanctum.*
+   
+   *Invade? I was just walking among the dusty shelves when I got trapped in here.*
+   
+   *The Library IS the sanctum!*
+   
+   *To who? It wasn't disturbed in millennia...*
+   
+   *The Book Hunters, of course!* - the voice almost yelled, proudly.
+   
+   *Who the hell are those?!*
+   
+   *They are the greatest order of magicians in the planet, and the most ancient one too.*
+   
+   *Your magicians must suck, hard.*
+   
+   *YOU DARE INSULT US?!*
+   
+   *Don't get me wrong, I don't mean to insult you. I'm merely observing that your planet was dead for millennia, so they
+   can't be really that great.*
+
+   Silence fell in his mind for a while.
+   
+   *So that's why it wasn't activated in so, so long. Well, time for me to sleep, and for you to die.*
+   
+   Raynell felt excruciating pain emanating through his spine. In his mind, he yelled:
+   
+   *STOP! What if I become a Book Hunter?*
+   
+   The pain stopped.
+   
+   *Hmmm. Well, I guess if you pass the entry test I can't kill you.*
+   
+   *What do I have to do?*
+   
+   *Open your eyes. I'll meet you in the trap.*
+   
+   He opened his eyes and stood up.
+   
+   In front of him was a cloud of energy in the form of a human being. In its hand, was a small book.
+   
+   "This is your test. Read this book and we will know if you are a Book Hunter."
    
    [WIP]
