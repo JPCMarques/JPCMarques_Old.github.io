@@ -146,6 +146,8 @@ id: chapter-1
    
    In front of him was a cloud of energy in the form of a human being. In its hand, was a small book.
    
-   "This is your test. Read this book and we will know if you are a Book Hunter."
+   "This is your test. Read this book and we will know if you are a Book Hunter." - he passed the boom to Raynell, who held
+   it suspiciously. 
    
-   [WIP]
+   As he grabbed it, he felt a slight hum coming from the book. Its cover was plain, made of a leathery material, with a 
+   title nowhere to be found. Suddenly, words began to form in his mind: "Endless".

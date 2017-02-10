@@ -1,0 +1,26 @@
+---
+layout: main-page
+title: home
+---
+
+{{content}}
+
+<br>
+
+<h3>Latest Updates</h3>
+
+<hr>
+
+<ul>
+{% for update in page.updates %}
+  <li><a href="{{site.baseurl}}{{update.url}}">{{update.name}}</a>
+  {% if update.description %}
+    <br>
+    <br>
+    {{update.description}}
+  {% endif %}
+    <br>
+    <br>
+  </li>
+{% endfor %}
+</ul>
