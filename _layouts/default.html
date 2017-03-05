@@ -3,6 +3,10 @@
 <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="/css/main.css"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    {% for script in page.scripts %}
+    <script type="text/javascript" src="{{site.baseurl}}{{script.src}}"></script>
+    {% endfor %}
     <title>{{page.title}}</title>
 </head>
 <body class="homepage-body">
@@ -13,7 +17,7 @@
 <hr style="clear:both">
 
 <footer >
-    <p class="regular-text">Copyright © 2017 JPCMarques</p>
+    <p class="regular-text" style="margin-left: 0">Copyright © 2017 JPCMarques</p>
 </footer>
 </body>
 </html>

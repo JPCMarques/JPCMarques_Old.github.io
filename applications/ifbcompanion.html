@@ -1,0 +1,155 @@
+---
+title: IFBCompanion
+layout: subpage
+navbar:
+  - Back: applications
+scripts:
+  - IFBCompanion:
+    src: /scripts/apps/IFBCompanion.js
+---
+<br>
+<div>
+  <div style="float: left; width: 24%; padding: 30px">
+    <table id="bannedTable" style="margin: auto; text-align: center;">
+      <thead>
+        <tr>
+          <th>Banned</th>
+        </tr>
+      </thead>
+      <tbody>
+
+      </tbody>
+    </table>
+  </div>
+  <div style="float: left; width: 24%; padding: 30px;">
+    <table id="normalTable" style="margin: auto; text-align: center;">
+      <thead>
+        <tr>
+          <th>Normal</th>
+        </tr>
+      </thead>
+      <tbody>
+
+      </tbody>
+    </table>
+  </div>
+  <div style="float: right; width: 24%; padding: 30px">
+    <table id="preferredTable" style="margin: auto; text-align: center;">
+      <thead>
+        <tr>
+          <th>Preferred</th>
+        </tr>
+      </thead>
+      <tbody>
+
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<script type="text/javascript">
+  bt = document.getElementById("bannedTable");
+  nt = document.getElementById("normalTable");
+  pt = document.getElementById("preferredTable");
+
+  CellHandler = {
+      leftImage:null,
+      rightImage:null,
+      name:null,
+      cell:null,
+      table:null,
+      row:null,
+      lTarget:null,
+      rTarget:null,
+
+      CellHandler:function(table, name){
+          this.name = name;
+          this.table = table;
+          this.leftImage = new Image(16,16);
+          this.leftImage.src = "{{site.baseurl}}/res/left-arrow-black.png";
+          this.leftImage.id = name + "LI";
+          this.leftImage.addEventListener("click", this.lMove) ;
+          this.rightImage = new Image(16,16);
+          this.rightImage.src = "{{site.baseurl}}/res/right-arrow-black.png";
+          this.rightImage.id = name + "RI";
+          this.rightImage.onclick = this.rMove;
+          this.row = table.insertRow(table.length);
+          this.cell = this.row.insertCell(0);
+          this.cell.appendChild(this.leftImage);
+          this.cell.appendChild(new Text(name));
+          this.cell.appendChild(this.rightImage);
+          this.update();
+          return this;
+      },
+
+      update:function(){
+          this.leftImage.visibility = this.table == bt ? "hidden" : "visible";
+          this.rightImage.visibility = this.table == pt ? "hidden" : "visible";
+          if(this.table == bt){
+              this.lTarget = null;
+              this.rTarget = nt;
+          }
+          else if (this.table == nt){
+              this.lTarget = bt;
+              this.rTarget = pt;
+          }
+          else if (this.table = pt) {
+              this.lTarget = nt;
+              this.rTarget = null;
+          }
+      },
+
+      lMove:function(){
+          if (this.lTarget == null) return;
+          moveBoss(tableToList(this.table), tableToList(this.lTarget), this.name);
+          this.lTarget.appendChild(this.row);
+      },
+
+      rMove:function(){
+          if (this.rTarget == null) return;
+          moveBoss(tableToList(this.table), tableToList(this.rTarget), this.name);
+          this.rTarget.appendChild(this.row);
+      }
+  };
+
+  var tableToList = function(table){
+      if(table == bt) return bannedBosses;
+      if(table == nt) return normalBosses;
+      if(table == pt) return preferredBosses;
+  };
+
+  var insertRowLast = function(table, name){
+      var row = table.tBodies[0].insertRow(table.length);
+      var cell = row.insertCell(0);
+      cell.innerHTML = (table != bt ?
+              "<img src='/res/left-arrow-black.png' height='16' width='16' style='float: left;' id='" + name + "LA'/> "
+              : "")
+          + name
+          + (table != pt ?
+              "<img src='/res/right-arrow-black.png' height='16' width='16' style='float: right;' id='" + name + "RA'/>"
+              : "");
+  };
+
+  clear();
+  load();
+
+  for(var i = 0; i < normalBosses.length; i++){
+      var ch = CellHandler.CellHandler(nt, normalBosses[i]);
+      ch.update();
+  }
+  for(i = 0; i < bannedBosses.length; i++){
+      ch = CellHandler.CellHandler(bt, bannedBosses[i]);
+      ch.update();
+  }
+  for(i = 0; i < preferredBosses.length; i++){
+      ch = CellHandler.CellHandler(pt, preferredBosses[i]);
+      ch.update();
+  }
+
+  $("#AraxxorLI").click(
+      function () {
+        bt.appendChild(nt.tHead.rows[1]);
+      }
+  )
+</script>
+<br>
