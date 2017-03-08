@@ -2,13 +2,25 @@
 layout: default
 ---
 <header style="position: relative">
-    <h1 style="float:left" class="header-text">{{page.title}}</h1>
+    <h1 style="float:left" class="header-text">{{layout.title | default: page.title}}</h1>
     <nav class="header-text" style="float: right; transform: translate(0%, 150%);">
+        {% if layout.navbar %}
+
+        {% for navbar-data in layout.navbar %}
+        {% for navbar-item in navbar-data %}
+        <a href="{{site.baseurl}}/{{navbar-item[1]}}/" style="padding-left: 10px">{{navbar-item[0]}}</a>
+        {% endfor %}
+        {% endfor %}
+
+        {% else %}
+
         {% for navbar-data in page.navbar %}
         {% for navbar-item in navbar-data %}
         <a href="{{site.baseurl}}/{{navbar-item[1]}}/" style="padding-left: 10px">{{navbar-item[0]}}</a>
         {% endfor %}
         {% endfor %}
+
+        {% endif %}
     </nav>
 </header>
 
@@ -17,10 +29,13 @@ layout: default
 {% if page.sidebarlinks == nil %}
 <div class="regular-text">{{content}}</div>
 {% else %}
-<div class="regular-text" style="float:left; width:70%;">{{content}}</div>
-<div style="float: right; width: 20%; right:0; margin-top: 5%; font-size: 75%; padding: 5px;" class="{{page.sidebarClass}}">
+<div class="regular-text" style="float:left;">{{content}}</div>
+<div style="float: right; width: 15%; right:0; margin-top: 5%;margin-right: 3% ; font-size: 75%; padding: 5px; position: fixed; overflow-y: auto "
+     class="{{layout.sidebarClass | default: page.sidebarClass }}">
     {% for sidebarlink in page.sidebarlinks %}
-        <a href="#{{sidebarlink}}" style="padding-left: 5px; ">{{sidebarlink}}</a><br>
+    {% for sidebarlinkdata in sidebarlink %}
+        <a href="#{{sidebarlinkdata[1]}}" style="padding-left: 5px; ">{{sidebarlinkdata[0]}}</a><br>
+    {% endfor %}
     {% endfor %}
 </div>
 {% endif %}

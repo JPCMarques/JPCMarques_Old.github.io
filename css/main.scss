@@ -22,9 +22,8 @@
   position: relative;
   width: $item_width;
   height: 100%;
-  left: 50%;
   overflow: auto;
-  transform: translate(-50%);
+  margin: auto;
 }
 
 .sidebar {
@@ -56,6 +55,12 @@ th{
   background-color: lightgray;
 }
 
+hr {
+  margin-top: -5px;
+  margin-left: -10px;
+  color: lightslategray;
+}
+
 td{
   border:1px solid #000000;
   padding-top: 5px;
@@ -64,10 +69,4 @@ td{
 
 @media print {
   /* Print styles go here */
-  .header {
-    display: hidden;
-  }
-  .footer {
-    display: hidden;
-  }
 }

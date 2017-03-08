@@ -1,6 +1,6 @@
 markdown: kramdown
 baseurl: ""
-exclude: ["README.md", "Gemfile", "Gemfile.lock"]
+exclude: ["README.md", "Gemfile", "Gemfile.lock", "_apps  /rsappcentral.md"]
 title: JPCMarques' personal website
 theme: jekyll-theme-cayman
 permalink: pretty
@@ -19,3 +19,9 @@ collections:
     world-building:
         output: true
         permalink: /light-novels/:title/world-building/
+    enterprise-integration:
+        output: true
+        permalink: /study-wiki/enterprise-integration/:title/
+    data-administration-in-information-systems:
+        output: true
+        permalink: /study-wiki/data-administration-in-information-systems/:title/
