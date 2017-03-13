@@ -10,6 +10,10 @@
   text-decoration: none;
 }
 
+nav {
+  @extend .a-text
+}
+
 .regular-text {
   font-family: $text_font, sans-serif;
   color: $text_color;
@@ -31,13 +35,21 @@
   border: 1px solid lightgray;
 }
 
-a {
+.a-text {
   @extend .header-text;
-  color: #1e6bb8;
+  color: $a_color;
+}
+
+a {
+  @extend .a-text
+}
+
+h1, h2, h3, h4, h5, h6 {
+  @extend .header-text;
 }
 
 header {
-  @extend .header-text;
+  @extend a;
 }
 
 main {

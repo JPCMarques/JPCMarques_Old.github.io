@@ -1,6 +1,6 @@
 ---
 layout: subpage
-title: Data Adminisitration in Information Systems
+title: Data Administration in Information Systems
 sidebarClass: sidebar
 navbar:
     - Back: study-wiki
