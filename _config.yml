@@ -25,3 +25,6 @@ collections:
     data-administration-in-information-systems:
         output: true
         permalink: /study-wiki/data-administration-in-information-systems/:title/
+   cloud-computing-and-virtualization:
+        output: true
+        permalink: /study-wiki/cloud-computing-and-virtualization/:title/
