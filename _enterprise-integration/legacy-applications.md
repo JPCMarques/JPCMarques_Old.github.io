@@ -2,7 +2,13 @@
 layout: enterprise-integration
 title: Legacy Applications
 sidebarlinks:
+  - Home: enterprise-integration
   - The Problem: the-problem
+  - Integration of Legacy Applications: integration-of-legacy-applications
+  - File Integration: file-integration
+  - Screen Scraping: screen-scraping
+  - Database Integration: database-integration
+  - Tiered Architectures: tiered-architectures
 ---
 
 # {{page.title}} #
