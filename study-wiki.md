@@ -16,3 +16,6 @@ The wiki format, and markdown, allow for seamless "glossaries" to be embedded in
 access to definitions.
 
 This project aims to achieve just that: provide complex information, while seamlessly integrating term definitions into the material itself.
+
+**Do note that these are in essence my study notes, and the materials in it *may* be wrong, or not entirely correct, as I 
+add my own insight to the material, and combine information from different sources (class slides, books, etc).**

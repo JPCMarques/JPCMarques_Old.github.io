@@ -63,7 +63,7 @@ table{
 
 th{
   border:1px solid #000000;
-  padding: 5px;
+  padding: 10px;
   background-color: lightgray;
 }
 
@@ -75,10 +75,31 @@ hr {
 
 td{
   border:1px solid #000000;
-  padding-top: 5px;
-  padding-bottom: 5px;
+  padding: 10px;
 }
 
 @media print {
   /* Print styles go here */
+}
+
+.prettyprint {
+  display: block;
+  color: #393318;
+}
+
+pre {
+  @extend .prettyprint;
+  margin-bottom: 1em;
+  padding: 5px;
+  width: auto;
+  max-height: 600px;
+  overflow: auto;
+  font-family: Consolas,Menlo,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New,monospace,sans-serif;
+  font-size: 13px;
+  background-color: #eff0f1
+}
+
+code {
+  font-family: Consolas,Menlo,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New,monospace,sans-serif;
+  background-color: #eff0f1;
 }

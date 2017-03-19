@@ -46,7 +46,7 @@ layout: default
      class="{{layout.sidebarClass | default: page.sidebarClass }}">
     {% for sidebarlink in page.sidebarlinks %}
     {% for sidebarlinkdata in sidebarlink %}
-        <a href="#{{sidebarlinkdata[1]}}" style="padding-left: 5px; ">{{sidebarlinkdata[0]}}</a><br>
+        <a href="#{{sidebarlinkdata[1]}}" style="padding-left: 5px;">{{sidebarlinkdata[0]}}</a><br><br>
     {% endfor %}
     {% endfor %}
 </div>

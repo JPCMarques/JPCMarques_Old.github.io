@@ -9,5 +9,6 @@ sinopse: |
     the only one.
 chapters:
     - "Chapter 1: The Original": chapter-1
+test: site.book-hunters
 ---
 

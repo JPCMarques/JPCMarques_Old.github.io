@@ -161,7 +161,7 @@ As such, Enterprise Integration can be defined as the creation of IT architectur
 to cooperate with each other, unlike the traditional way where they would be confined within their own borders and seldom interact, 
 as well as with the outside.
 
-[Integration Case example](examples/integration-case/)
+[Integration Case example]({{site.baseurl}}/study-wiki/enterprise-integration/examples/integration-case/)
 
 ### Porter's Model ###
 

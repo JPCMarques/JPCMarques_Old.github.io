@@ -1,4 +1,8 @@
 markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax-highlighter: rouge
 baseurl: ""
 exclude: ["README.md", "Gemfile", "Gemfile.lock", "_apps/rsappcentral.md"]
 title: JPCMarques' personal website
@@ -16,6 +20,9 @@ collections:
     light-novels:
         output: true
         permalink: /light-novels/:title/
+    book-hunters:
+        output: true
+        permalink: /light-novels/book-hunters/:title/
     world-building:
         output: true
         permalink: /light-novels/:title/world-building/
