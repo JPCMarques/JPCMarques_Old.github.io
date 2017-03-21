@@ -423,10 +423,11 @@ Typically the advantages of B trees do not outweigh the disadvantages
 
 Assume the following query:
 
-~~~ sql
-select ID
-from instructor
-where dept_name = "Finance" and salary = 80000
-~~~
-
+``` mysql
+ select ID
+ from instructor
+ where dept_name = "Finance" and salary = 80000;
+```
 With 2 indices, one for `dept_name` and another for `salary`
+
+\[WIP\]

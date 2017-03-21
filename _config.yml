@@ -1,8 +1,5 @@
 markdown: kramdown
 highlighter: rouge
-kramdown:
-  input: GFM
-  syntax-highlighter: rouge
 baseurl: ""
 exclude: ["README.md", "Gemfile", "Gemfile.lock", "_apps/rsappcentral.md"]
 title: JPCMarques' personal website

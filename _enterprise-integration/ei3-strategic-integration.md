@@ -3,6 +3,7 @@ layout: enterprise-integration
 title: Strategic Integration
 sidebarlinks:
   - Home: strategic-integration
+  - Strategic approaches to integration
 ---
 
 # {{page.title}} #
