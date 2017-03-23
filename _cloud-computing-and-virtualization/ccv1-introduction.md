@@ -141,7 +141,7 @@ As with all things, Cloud Computing has its pros and cons:
 - **Varied development paradigms**
 
   VMs, web apps, etc
-
+  
 ### Cons
 
 1. Availability
