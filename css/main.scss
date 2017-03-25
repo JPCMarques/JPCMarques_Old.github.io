@@ -3,11 +3,19 @@
 @import "fonts";
 @import "dimens";
 @import "colors";
+@import url(manni.css);
 
 .header-text {
   font-family: $header_font, monospace;
   color: $header_color;
   text-decoration: none;
+}
+
+.clStyle {
+  all: initial;
+  * {
+    all: unset;
+  }
 }
 
 nav {
