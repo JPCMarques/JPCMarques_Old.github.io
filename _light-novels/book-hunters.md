@@ -9,6 +9,10 @@ sinopse: |
     the only one.
 chapters:
     - "Chapter 1: The Original": chapter-1
-test: site.book-hunters
 ---
 
+## Chapters
+
+{% for bhc in site.book-hunters %}
+- [{{bhc.title}}]({{bhc.id}}) <br>
+{% endfor %}

@@ -14,21 +14,3 @@ layout: subpage
 <br>
 
 {{content}}
-
-<h2>Chapters</h2>
-<ul>
-{% for chapter in page.chapters %}
-    {% for chapter-data in chapter %}
-
-   <li><a href="{{site.baseurl}}{{page.url}}/{{chapter-data[1]}}">{{chapter-data[0]}}</a> </li>
-    {% endfor %}
-{% endfor %}
-</ul>
-
-{% for chapter in page.test %}
-
-<hr>
-
-<p>{{chapter.title}}</p>
-
-{% endfor %}

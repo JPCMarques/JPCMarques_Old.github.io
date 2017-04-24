@@ -2,7 +2,7 @@
 layout: subpage
 title: System VMs Examples
 navbar:
-  - Back: study-wiki/cloud-computing-and-virtualization/
+  - Back: study-wiki/cloud-computing-and-virtualization/ccv1-introduction/
 ---
 
 ## Classic approach (Type-1)
