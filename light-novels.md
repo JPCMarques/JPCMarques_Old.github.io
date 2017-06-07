@@ -5,6 +5,7 @@ layout: light-novels-home
 
 Here you can find all the light novels I'm currently working on. Their themes *can* vary wildly, so beware.
 
+<!--
 Each light novel will have it's own "World Building section", which will constantly be improved upon, which will define
 the rules under which each the novel's world operates.
 
@@ -19,5 +20,5 @@ For example, you could see this in a story:
 > The great Antioch was the saviour of Antiochland
 
 As anecdotal as the example may be, Antioch and Antiochland do not have a significant role in the story, and will not be present in it (except maybe some references, like in the example),
-but will probably make their way into the world building section.
+but will probably make their way into the world building section. -->
 ---
