@@ -20,9 +20,9 @@ collections:
     book-hunters:
         output: true
         permalink: /light-novels/book-hunters/:title/
-    world-building:
+    expanded-universe:
         output: true
-        permalink: /light-novels/:title/world-building/
+        permalink: /light-novels/:title/expanded-universe/
     enterprise-integration:
         output: true
         permalink: /study-wiki/enterprise-integration/:title/
@@ -32,3 +32,6 @@ collections:
     cloud-computing-and-virtualization:
         output: true
         permalink: /study-wiki/cloud-computing-and-virtualization/:title/
+    book-reviews:
+        output: true
+        permalink: /book-reviews/:path/

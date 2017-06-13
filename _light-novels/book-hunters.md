@@ -1,7 +1,7 @@
 ---
 layout: light-novel
 title: Book Hunters
-id: book-hunters
+urlComponent: book-hunters
 navbar:
     - Back: light-novels
 sinopse: |
