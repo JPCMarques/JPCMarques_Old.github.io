@@ -1,0 +1,16 @@
+---
+layout: subpagedir
+sidebarClass: sidebar
+---
+
+{{content}}
+
+<ul>
+{% for wp in site.book-reviews %}
+{% if wp.url contains page.url %}
+{% unless wp.title == page.title %}
+<li> <a href="{{wp.url}}">{{wp.title}}</a> </li>
+{% endunless %}
+{% endif %}
+{% endfor %}
+</ul>
