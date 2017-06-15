@@ -1,0 +1,16 @@
+---
+layout: subpage
+comments: true
+navbar:
+  - Back: book-reviews/writing-prompts/
+---
+
+<h2><a href="{{page.original-url}}">Read the original on Reddit!</a></h2>
+
+{% include book-review-ratings.html %}
+
+<h3>Full review</h3>
+
+{{content}}
+
+{% include book-reviews-disqus.html %}

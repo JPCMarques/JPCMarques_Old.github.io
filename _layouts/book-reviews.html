@@ -1,6 +1,8 @@
 ---
 layout: subpagedir
 sidebarClass: sidebar
+navbar:
+ - Back: book-reviews
 ---
 
 {{content}}
@@ -14,3 +16,5 @@ sidebarClass: sidebar
 {% endif %}
 {% endfor %}
 </ul>
+
+{% include book-reviews-disqus.html %}

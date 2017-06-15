@@ -13,4 +13,4 @@ I will try to organize the reviews neatly so that they're easy to find. Without 
 
 - [Writing Prompts](writing-prompts/)
 - [Short Stories](short-stories/)
-- [Full novels](full-novels/)
+- [Books](books/)

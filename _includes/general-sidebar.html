@@ -1,0 +1,16 @@
+
+<div class="sidebar no-print">
+{% if layout.sidebarlinks %}
+  {% for sidebarlink in layout.sidebarlinks %}
+  {% for sidebarlinkdata in sidebarlink %}
+      <a href="{{page.url}}{{sidebarlinkdata[1]}}/" style="padding-left: 5px;">{{sidebarlinkdata[0]}}</a><br><br>
+  {% endfor %}
+  {% endfor %}
+{% else %}
+  {% for sidebarlink in page.sidebarlinks %}
+  {% for sidebarlinkdata in sidebarlink %}
+      <a href="{{page.url}}{{sidebarlinkdata[1]}}/" style="padding-left: 5px;">{{sidebarlinkdata[0]}}</a><br><br>
+  {% endfor %}
+  {% endfor %}
+{% endif%}
+</div>

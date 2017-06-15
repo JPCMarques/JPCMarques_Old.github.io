@@ -1,5 +1,5 @@
 ---
-layout: subpage
+layout: book-hunters
 navbar:
     - Back: light-novels/book-hunters
 title: The Trial

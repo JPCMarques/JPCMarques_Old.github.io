@@ -19,14 +19,5 @@ layout: default
     {{content}}
     {% endif %}
 </div>
-<div
-     class="{{page.sidebarClass | default: sidebar }} no-print">
-    {% for sidebarlink in page.sidebarlinks %}
-    {% for sidebarlinkdata in sidebarlink %}
-        <a href="#{{sidebarlinkdata[1]}}" style="padding-left: 5px;">{{sidebarlinkdata[0]}}</a><br><br>
-    {% endfor %}
-    {% endfor %}
-</div>
+{% include regular-sidebar.html %}
 {% endif %}
-
-{% include disqus.html %}
