@@ -7,7 +7,7 @@ Here you can find all the light novels I'm currently working on. Their themes *c
 
 Each light novel can be accompanied by an **Expanded Universe** section, where further details about the story's universe are given.
 
-If you wish to publish your writings here, you can contact me through the information present in the [About]({site.baseurl}/about/) section.
+If you wish to publish your writings here, you can contact me through the information present in the [About]({{site.baseurl}}/about/) section.
 
 <!--
 Each light novel will have it's own "World Building section", which will constantly be improved upon, which will define
