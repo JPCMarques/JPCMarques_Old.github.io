@@ -7,7 +7,7 @@ comments: true
 id: chapter-2
 ---
 
-When he came to, Raynell was in a seemingly infinite, pitch black room. In front of him,
+When he regained consciousness, Raynell was in a seemingly infinite, pitch black room. In front of him,
 was the amalgamation of energy resembling a humanoid creature.
 
 "Welcome to the Void. This is a place that breaks most human beings, specially the religious.
