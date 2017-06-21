@@ -1,4 +1,4 @@
-
+{% if page.sidebarlinks or layout.sidebarlinks%}
 <div class="sidebar no-print">
   {% if layout.sidebarlinks %}
     {% for sidebarlink in layout.sidebarlinks %}
@@ -14,3 +14,4 @@
     {% endfor %}
   {% endif %}
 </div>
+{% endif%}
