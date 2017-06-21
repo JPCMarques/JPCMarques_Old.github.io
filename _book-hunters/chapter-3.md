@@ -65,6 +65,6 @@ The guardian placed Raynell inside the pillar. He floated until he was in the ce
 
 A screen made up exclusively by light appeared in front of it, with several graphs detailing Raynell's physical condition, and a descriptive text underneath them all. It read:
 
-<center>*Severe Void contamination. Subject has void particles inside his circulatory system, and several concentrated deposits spread throughout his body. His eyes seem to have been completely replaced by two such deposits. The three other deposits are on each of his shoulderblades, and one surrounding his heart. Most of his nerves and neurons are also partially covered by void particles. Full recovery highly unlikely, and eyesight permanently lost.*</center>
+*<center>Severe Void contamination. Subject has void particles inside his circulatory system, and several concentrated deposits spread throughout his body. His eyes seem to have been completely replaced by two such deposits. The three other deposits are on each of his shoulderblades, and one surrounding his heart. Most of his nerves and neurons are also partially covered by void particles. Full recovery highly unlikely, and eyesight permanently lost.</center>*
 
 *This guy is fucked, bloody dumbass.* - Guardian said, out loud.
