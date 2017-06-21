@@ -26,3 +26,13 @@ Hope you enjoy my website and projects!
 [My Resume](resume)
 
 [Full CV](full-cv)
+
+## Contacts ##
+
+---
+
+* [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-marques-b06199aa)
+* [Github](https://github.com/JPCMarques/)
+* Email: joao.p.c.m@hotmail.com
+
+Further contacts will be provided as requested.
