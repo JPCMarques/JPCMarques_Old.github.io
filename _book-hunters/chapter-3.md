@@ -12,7 +12,7 @@ hear it.
 
 *Oh shit. Shouldn't have tried that.*
 
-He tried removing his hands from the floor, without success. What's more, tiny small tentacles began to wrap around his hands and legs,
+He tried removing his hands from the floor, without success. What's more, tiny tentacles began to wrap around his hands and legs,
 forcing him on his knees. Wherever the tentacles touched, he felt excruciating pain, but no physical damage was left upon contact. He screamed,
 harder and harder as the tentacles crept up his body, tortuously slow, as if the Void was attempting to torture him.
 
