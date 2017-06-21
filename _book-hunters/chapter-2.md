@@ -100,7 +100,7 @@ The humanoid began laughing jovialy.
 "That's a fine theory, but that's all it is. No one knows for sure how life began, or how it will end. I can't possibly answer your
 question with absolute certainty, as that is one question for which the answer remains unknown to this day."
 
-"That is my answer then. I will find my creator, or prove I have none."
+"That is my answer then. I will find my creator or prove I have none, and become such a being myself."
 
 "That is a good purpose, that many have had, and even more see it as a fool's errand. Besides, it's not like purposes are *always* permanent.
 I accept your answer. Welcome to the Book Hunters! My name is Guardian, an artifial being made to protect the Sanctum you so carelessly walked into,
