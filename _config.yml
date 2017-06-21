@@ -1,7 +1,7 @@
 markdown: kramdown
 highlighter: rouge
 baseurl: ""
-exclude: ["README.md", "Gemfile", "Gemfile.lock", "_apps/rsappcentral.md", "_book-hunters/chapter-2.md"]
+exclude: ["README.md", "Gemfile", "Gemfile.lock", "_apps/rsappcentral.md"]
 title: JPCMarques' personal website
 theme: jekyll-theme-cayman
 permalink: pretty

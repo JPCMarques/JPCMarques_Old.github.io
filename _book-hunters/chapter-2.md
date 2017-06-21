@@ -115,4 +115,4 @@ Raynell placed his hands on the ground - "To consume the Void." - he began imagi
 "NO! STOP!" - it began to fly towards Raynell
 
 Just as Guardian finished yelling, black tentacle-like things formed a circle around Raynell, undulating and growing in size, their tips moving towards
-a point above his head, until they finally enveloped Raynell in a cage.  
+a point above his head, until they finally enveloped him in a cage.  
