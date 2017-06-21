@@ -1,0 +1,8 @@
+{% if page.sidebarlinks == nil and layout.sidebarlinks == nil%}
+<div class="regular-text">
+{% else %}
+<div class="regular-text" style="float:left;">
+{% endif %}
+    {{content}}
+</div>
+    
