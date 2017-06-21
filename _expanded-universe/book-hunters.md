@@ -4,8 +4,6 @@ navbar:
     - Back: light-novels/book-hunters
 title: The Book Hunters
 sidebarClass: sidebar
-sidebarlinks:
-    - Test: test
 ---
 
 Welcome to the Book Hunters' expanded universe!
