@@ -6,8 +6,6 @@ title: The Infinite Book
 comments: true
 id: chapter-1
 ---
-<br>
-<br>
   A man opened a door, illuminating a wide room, until then pitch black, revealing shelves upon shelves of books, books and some
   loose pages lying on the floor, covered in dust, most eaten by long-dead larvae as sustenance. The light coming from the opening
   allowed the man to see just how big the place he found was, as it seemed it would go on forever in the void of darkness.
