@@ -2,12 +2,12 @@
 layout: book-hunters
 navbar:
     - Back: light-novels/book-hunters
-title: The Void Stares Back
+title: The Abyss Stares Back
 comments: true
 id: chapter-3
 ---
 
-Raynell found himself caged after attempting to absorb the Void. He could see Guardian from between the tentacles, but he couldn't seem to hear it. 
+Raynell found himself caged after attempting to absorb the Void. He could see Guardian from between the tentacles, but he couldn't seem to hear it.
 
 *Oh shit. Shouldn't have tried that.*
 
@@ -37,7 +37,7 @@ He stared at them, growing for a few seconds.
 
 Instead, the tentacles suddenly stopped growing.
 
-*What the...* - before he could finish his thought, they stabbed him, almost instantly. The one on his chest stabbed his heart, the ones on his back his shoulderblades, and the ones in front of his face went into his eyes and mouth. 
+*What the...* - before he could finish his thought, they stabbed him, almost instantly. The one on his chest stabbed his heart, the ones on his back his shoulderblades, and the ones in front of his face went into his eyes and mouth.
 
 He stopped feeling any pain, at all, as the Void entered his body. He felt relieved and, at the same time, even more fearful.
 
@@ -51,7 +51,7 @@ Guardian rushed to him, lifting him the air by creating some sort of platform ou
 
 <center>&diams;</center>
 
-Guardian opened a light gray door to a pure white room, the walls seemingly emitting the gentle light that covered the room, that, due to the walls, floor and ceiling beeing completely white, and their connections indistinguishable, gave off the illusion that it was an endless scape of white, with the notable exception of the door. 
+Guardian opened a light gray door to a pure white room, the walls seemingly emitting the gentle light that covered the room, that, due to the walls, floor and ceiling beeing completely white, and their connections indistinguishable, gave off the illusion that it was an endless scape of white, with the notable exception of the door.
 
 As it brought Raynell to the center of the room, the humanoid said, calmly:
 
@@ -71,3 +71,57 @@ A screen made up exclusively by light appeared in front of it, with several grap
 
 <center>&diams;</center>
 
+Raynell opened his eyes to an endless scape of of white, this time infinitely filled with clones of his. All of them with different clothes, some with
+scars decorating their bodies, some with tattoos. Startled, he shouted:
+
+"What the hell? Why are there so many of me?"
+
+Chatter broke among his clones.
+
+"This one's jittery." - said the closest to him, arms crossed.
+
+"Jittery? I'd say hes a bit slow, is he not?" - the one behind him, in a suit, said mockingly, pointing his finger at him and laughing to the clone on his right.
+
+A muscled clone came from behind the suited one, putting his arm over his shoulder, and saying, mockingly:
+
+"Now, now, he had to live his whole life with that... issue. Let's not pile on him over that, alright?"
+
+"Seriously, why THE FUCK are there so many of me?"
+
+After laughing some more, the suited one said:
+
+"We are you. Well, infinite versions of you, from all alternate dimensions and universes."
+
+Flabergasted by the revelation, Raynell took awhile to answer.
+
+"But, how?"
+
+"Well, you did absorb a portion of the Void after all."
+
+"So now what?"
+
+"Well, now we will all attempt to seize control of your mind, of course."
+
+"Uh... What?"
+
+"You think we want to stay here? You trapped us here, we want to leave. And you're the cheapest taxi, mate. But not all is lost. We will let you wake up first."
+
+Before he could say anything, his vision faded to black. When it returned to normal, he opened his eyes to the operation room Guardian had brought him
+
+*Thank God, it was just a dream...*
+
+*What do you mean mate, we're still here.*
+
+*Yeaaah duuude, don't be a dick.*
+
+*Oh look, we have a stoner among us.*
+
+*Guess it will liven up things a little.*
+
+*My god, would you all shut the fuck up?* - Raynell yelled in his mind.
+
+*Oh, no way man. Like we said, we're here to stay, and take control of you.*
+
+"GUARDIAN! *He can't help you now...* WHERE THE HELL ARE YOU? *Maybe he left you for dead?* I NEED YOUR HELP! *No one will come for you...*"
+
+He yelled, underneath his oxygen mask. The sound, muffled at best, probably wouldn't reach the guardian. But, he still needed to try. He HAD to try. He couldn't be stuck with infinite versions of himself filling his every waking moment with their voices. Could he?

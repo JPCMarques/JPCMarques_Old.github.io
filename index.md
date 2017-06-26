@@ -10,6 +10,9 @@ updates:
   - bhc2:
     name: Book Hunters Chapter 2 (Completed)
     url: light-novels/book-hunters/chapter-2/
+  - bhc3:
+    name: Book Hunters Chapter 3 (Completed)
+    url: light-novels/book-hunters/chapter-3/
 ---
 # HI #
 
