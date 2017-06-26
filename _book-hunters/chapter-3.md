@@ -29,7 +29,7 @@ As the tip of the first tentacle touched his neck, he felt even more pain than h
 
 *I can't fight this. I'm going to die an excruciating death. I'm not even going to cast a motherfucking spell after discovering I can...*
 
-He stopped screaming. He couldn't do so anymore, as he had lost his voice from all the previous desperate screams of pain. He continued to be covered up until the chin and ribcage. At that point, the tentacles begined to combine into bigger ones: one on his chest, two on his back and three in front of his face.
+He stopped screaming. He couldn't do so anymore, as he had lost his voice from all the previous desperate screams of pain. He continued to be covered up until the chin and ribcage. At that point, the tentacles began to combine into bigger ones: one on his chest, two on his back and three in front of his face.
 
 He stared at them, growing for a few seconds.
 
@@ -47,7 +47,7 @@ The tentacles that covered his body began flowing into him where he was stabbed,
 
 When all of them flowed into him, he fell flat on the floor, passing out.
 
-Guardian rushed to him, lifting him the air by creating some sort of platform out of thin air, carrying him over the portal.
+Guardian rushed to him, lifting him in the air by creating some sort of platform out of thin air, carrying him over the portal.
 
 <center>&diams;</center>
 
@@ -59,7 +59,7 @@ As it brought Raynell to the center of the room, the humanoid said, calmly:
 
 Immediately, a small circular white platform rose from the floor, only a couple of centimeters wide, mirrored by another platform protruding from the ceiling. Both progressively grew until they were slightly wider than the average human. Light blue light came out from the one in the floor, meeting the upper one and creating a hollow pillar of light. A small gust of wind was sent out of it, expelling all matter from inside of it.
 
-The guardian placed Raynell inside the pillar. He floated until he was in the center of it. Upon reaching it, the top of the pillar opened, and several tubes of a plastic-like material and varying widths came down from the ceiling. One oxygen mask attached itself to Raynells face, several tubes with electrode-like ends convered most of his body, most of them placed on top of the full-body tattoo. One with a syringe end perfurated his right arm crook and began extracting some blood, which flowed to the ceiling through the tube.
+The guardian placed Raynell inside the pillar. He floated until he was in the center of it. Upon reaching it, the top of the pillar opened, and several tubes of a plastic-like material and varying widths came down from the ceiling. One oxygen mask attached itself to Raynells face, several tubes with electrode-like ends covered most of his body, most of them placed on top of the full-body tattoo. One with a syringe end perfurated his right arm crook and began extracting some blood, which flowed to the ceiling through the tube.
 
 "Show me the diagnosis."
 
@@ -106,7 +106,7 @@ Flabergasted by the revelation, Raynell took awhile to answer.
 
 "You think we want to stay here? You trapped us here, we want to leave. And you're the cheapest taxi, mate. But not all is lost. We will let you wake up first."
 
-Before he could say anything, his vision faded to black. When it returned to normal, he opened his eyes to the operation room Guardian had brought him
+Before he could say anything, his vision faded to black. When it returned to normal, he opened his eyes to the operation room Guardian had brought him.
 
 *Thank God, it was just a dream...*
 
