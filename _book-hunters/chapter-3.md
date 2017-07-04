@@ -71,7 +71,7 @@ A screen made up exclusively by light appeared in front of it, with several grap
 
 <center>&diams;</center>
 
-Raynell opened his eyes to an endless scape of of white, this time infinitely filled with clones of his. All of them with different clothes, some with
+Raynell opened his eyes to an endless scape of white, this time infinitely filled with clones of his. All of them with different clothes, some with
 scars decorating their bodies, some with tattoos. Startled, he shouted:
 
 "What the hell? Why are there so many of me?"
@@ -106,7 +106,7 @@ Flabergasted by the revelation, Raynell took awhile to answer.
 
 "You think we want to stay here? You trapped us here, we want to leave. And you're the cheapest taxi, mate. But not all is lost. We will let you wake up first."
 
-Before he could say anything, his vision faded to black. When it returned to normal, he opened his eyes to the operation room Guardian had brought him.
+Before he could say anything, his vision faded to black. When it returned to normal, he opened his eyes to the operation room Guardian had brought him, seeing nothing but blurs.
 
 *Thank God, it was just a dream...*
 
