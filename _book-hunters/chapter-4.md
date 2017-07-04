@@ -96,3 +96,73 @@ All the cables and the oxygen mask detached from his body, and he floated down u
 "Uh? *what the hell, Sparkles? Why would we hit it?*"
 
 "You'll see. Alright, I'm lowering the barrier now." - as quickly as it went up, the barrier came down, as if a curtain, falling on the floor. - "Try and take a step forward."
+
+Raynell took a step forward, successfully placing his right foot where intended.
+
+"HA! Didn't hit the wall."
+
+"Don't get cocky. Take another step."
+
+The moment Raynell lifted his left foot, he threw himself into the wall, almost instantly, as if he had teleported there, creating a current of wind from his sudden movement, and sliding to the floor from the wall.
+
+The wall was not damaged, not even a little, and Raynell did not feel pain, despite the force he hit it with. 
+
+"What the fuck? *Gonna have to agree with him on this one, what the fuck just happened?!*"
+
+"I told you you'd hit the wall. Its due to your suddenly enhanced strength, that you can't fully control so far."
+
+"So I'm just going to crash into walls the moment I decide to move?!."
+
+"No. These walls are made of a shock-absorbant material we created, and are the perfect training ground for you." - *and containment unit*, Guardian thought - "Just try to exert as little strength as possible. Imagine you're walking on a floor made of paper, and any sudden movement will make it tear apart underneath you."
+
+"Here goes..."
+
+<center>&diams;</center>
+
+2 hours passed since Raynell went into the library. Dean and LL were starting to get nervous.
+
+"What happened to him? He should have returned by now." - LL said.
+
+"Damned if I know. Just call him on the comms?"
+
+"I did. All I got back was static."
+
+Dean began to show a worried face.
+
+"Maybe he's simply too far away, don't worry too much about it."
+
+"Even still, I think we should go look for him."
+
+"No way, man. We need to watch the entrance for other scavs. He's stronger than both of us combined anyways, with all those augs."
+
+"I guess you're right. I can't help but worry though."
+
+A moment of silence fell between the two. Dean interrupted that moment of silence, saying:
+
+"You know he's not into you right?"
+
+The question was met with a swift response by LL, in the form of a punch in the shoulder.
+
+<center>&diams;</center>
+
+"Yes! I can now walk properly again! *The light of our Lord shone upon you, and thusly allowed you to move.* *Holy shit, we have a preacher here! What's up dude! Language, my son. Buzzkill.*" - he couldn't help but exhibit a confident smile.
+
+"See, it wasn't too hard."
+
+"Yeah. What about my friends?"
+
+"Who?"
+
+"The two numbskulls that I left at the entrance."
+
+"Oh, they're still there."
+
+"Can you take me there?"
+
+"I strongly advise against that, you still can't control your powers."
+
+"I got to tell them I'm fine, or pretty soon they will come after me."
+
+"It's up to you. I'm just adivsing you."
+
+"Very well. Show me around this place, and then take me to them."
