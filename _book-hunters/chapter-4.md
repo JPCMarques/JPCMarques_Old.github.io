@@ -33,13 +33,13 @@ Raynell forced a smile. Amidst the maddening whispers he would constantly hear i
 
 Guardian brought up a monitor to its right. It read:
 
-</br>
+<br/>
 
 *<center>VOID CONTAMINATION</center>*
 
 *<center>Over 40% of the subject's body are comprised entirely of Void energy. Lack of control can lead to massive damage to surroundings. Suggested course of action: termination.</center>*
 
-</br>
+<br/>
 
 Looking at the floating man in front of him, Guardian couldn't help but feel sorry for him.
 
