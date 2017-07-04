@@ -35,3 +35,6 @@ collections:
     book-reviews:
         output: true
         permalink: /book-reviews/:path/
+    main-pages:
+        output: true
+        permalink: /:title/
