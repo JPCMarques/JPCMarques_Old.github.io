@@ -1,7 +1,7 @@
 markdown: kramdown
 highlighter: rouge
 baseurl: ""
-exclude: ["README.md", "Gemfile", "Gemfile.lock", "_apps/rsappcentral.md"]
+exclude: ["README.md", "Gemfile", "Gemfile.lock", "_apps/rsappcentral.md", "_light-novels/book-hunters/chapter-5.md"]
 title: JPCMarques' personal website
 theme: jekyll-theme-cayman
 permalink: pretty
@@ -12,26 +12,15 @@ sass:
 collections:
     study-wiki:
         output: true
+        permalink: study-wiki/:path/
     apps:
         output: false
     light-novels:
         output: true
         permalink: /light-novels/:title/
-    book-hunters:
-        output: true
-        permalink: /light-novels/book-hunters/:title/
     expanded-universe:
         output: true
         permalink: /light-novels/:title/expanded-universe/
-    enterprise-integration:
-        output: true
-        permalink: /study-wiki/enterprise-integration/:title/
-    data-administration-in-information-systems:
-        output: true
-        permalink: /study-wiki/data-administration-in-information-systems/:title/
-    cloud-computing-and-virtualization:
-        output: true
-        permalink: /study-wiki/cloud-computing-and-virtualization/:title/
     book-reviews:
         output: true
         permalink: /book-reviews/:path/

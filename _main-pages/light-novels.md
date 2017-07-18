@@ -1,6 +1,8 @@
 ---
 title: Light Novels
 layout: light-novels-home
+whitelist:
+  - bh
 ---
 
 Here you can find all the light novels I'm currently working on. Their themes *can* vary wildly, so beware.

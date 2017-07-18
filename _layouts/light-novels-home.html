@@ -8,6 +8,7 @@ layout: main-page
 <br>
 <ul>
     {% for light-novel in site.light-novels %}
+    {% if page.whitelist == nil or page.whitelist contains light-novel.motherID %}
     <li><a href="{{site.baseurl}}{{light-novel.url}}">{{light-novel.title}}</a>
         {% if light-novel.sinopse != nil %}
         <br>
@@ -15,5 +16,6 @@ layout: main-page
         {% endif %}
         <br>
     </li>
+    {% endif %}
     {% endfor %}
 </ul>

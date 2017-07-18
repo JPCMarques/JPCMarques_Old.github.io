@@ -1,6 +1,6 @@
 ---
 title: Study Wiki
-layout: study-wiki
+layout: main-page
 bodyClass: homepage-body
 contentClass: regular-text
 headerClass: header-text
@@ -17,5 +17,11 @@ access to definitions.
 
 This project aims to achieve just that: provide complex information, while seamlessly integrating term definitions into the material itself.
 
-**Do note that these are in essence my study notes, and the materials in it *may* be wrong, or not entirely correct, as I 
+**Do note that these are in essence my study notes, and the materials in it *may* be wrong, or not entirely correct, as I
 add my own insight to the material, and combine information from different sources (class slides, books, etc).**
+
+Available Content:
+
+- [Cloud Computing and Virtualization](cloud-computing-and-virtualization/)
+- [Enterprise Integration](enterprise-integration/)
+- [Data Administration in Information Systems](data-administration-in-information-systems/)

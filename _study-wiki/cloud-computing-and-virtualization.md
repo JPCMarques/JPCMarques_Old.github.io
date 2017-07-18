@@ -1,14 +1,9 @@
 ---
-layout: subpage
+layout: study-wiki-motherpage
 title: Cloud Computing and Virtualization
-sidebarClass: sidebar
-navbar:
-    - Back: study-wiki
+motherID: ccv
 ---
 
+[Examples](examples)
 
-Available topics:
-
-{% for wikipage in site.cloud-computing-and-virtualization %}
-* [{{wikipage.title}}]({{wikipage.url}})
-{% endfor %}
+Available Topics:

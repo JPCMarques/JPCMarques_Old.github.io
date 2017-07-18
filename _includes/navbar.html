@@ -1,19 +1,27 @@
 <header style="position: relative">
     <h1 class="a-text" style="float:left">{{layout.title | default: page.title}}</h1>
     <nav class="header-text" style="float: right; transform: translate(0%, 150%);">
-        {% if layout.navbar %}
+        {% if page.navbar %}
 
-        {% for navbar-data in layout.navbar %}
+        {% for navbar-data in page.navbar %}
         {% for navbar-item in navbar-data %}
+        {% if page.relativenavbar == true %}
+        <a href="{{navbar-item[1]}}/" style="padding-left: 10px">{{navbar-item[0]}}</a>
+        {% else %}
         <a href="{{site.baseurl}}/{{navbar-item[1]}}/" style="padding-left: 10px">{{navbar-item[0]}}</a>
+        {% endif %}
         {% endfor %}
         {% endfor %}
 
         {% else %}
 
-        {% for navbar-data in page.navbar %}
+        {% for navbar-data in layout.navbar %}
         {% for navbar-item in navbar-data %}
+        {% if page.relativenavbar == true %}
+        <a href="{{navbar-item[1]}}/" style="padding-left: 10px">{{navbar-item[0]}}</a>
+        {% else %}
         <a href="{{site.baseurl}}/{{navbar-item[1]}}/" style="padding-left: 10px">{{navbar-item[0]}}</a>
+        {% endif %}
         {% endfor %}
         {% endfor %}
 

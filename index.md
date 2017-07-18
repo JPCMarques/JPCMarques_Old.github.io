@@ -19,3 +19,5 @@ updates:
 Welcome to my website!
 
 It's *currently* under construction, so please be patient :)
+
+[RSS](feed.xml/)
