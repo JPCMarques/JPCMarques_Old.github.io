@@ -1,0 +1,29 @@
+---
+layout: subpagedir
+sidebarClass: sidebar
+navbar:
+ - Back: light-novels
+---
+<br>
+
+{{page.sinopse}}
+
+<br>
+<br>
+<br>
+
+<strong><a href="{{site.baseurl}}{{page.id}}/expanded-universe/">Expanded Universe</a></strong>
+
+<br>
+
+{{content}}
+
+<ul>
+{% for ln in site.light-novels %}
+  {% if ln.url contains page.url %}
+    {% unless ln.title == page.title or ln.mother != page.motherID or page.ignore contains ln.title %}
+    <li> <a href="{{ln.url}}">{{ln.title}}</a> </li>
+    {% endunless %}
+  {% endif %}
+{% endfor %}
+</ul>

@@ -1,0 +1,18 @@
+---
+layout: subpagedir
+sidebarClass: sidebar
+navbar:
+ - Back: study-wiki
+---
+
+{{content}}
+
+<ul>
+{% for sw in site.study-wiki %}
+  {% if sw.url contains page.url %}
+    {% unless sw.title == page.title or sw.mother != page.motherID or page.ignore contains sw.title %}
+    <li> <a href="{{sw.url}}">{{sw.title}}</a> </li>
+    {% endunless %}
+  {% endif %}
+{% endfor %}
+</ul>
