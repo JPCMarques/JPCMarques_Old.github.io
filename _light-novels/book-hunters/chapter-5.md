@@ -25,4 +25,12 @@ Guardian lead Raynell out of the room. Around them, was a brightly lit hall, pur
 
 Guardian paused for a bit.
 
-"After that, they grew restless, kidnapping and experimenting on our weakest members in order to understand our power. They learned nothing of it, obviously, as they couldn't simply comprehend void. Naturally, we were enraged. At first, we simply destroyed the gateway to the Sanctum in Earth, called Atlantis, pulverized the whole island into dust, making sure the residents would suffer in their deaths, the same way they made ours suffer. We ripped off skin and fingers, broke bones and shattered minds, all in revenge for our fallen brothers. We sadly could never recover their bodies."
+"After that, they grew restless, kidnapping and experimenting on our weakest members in order to understand our power. They learned nothing of it, obviously, as they couldn't simply comprehend void. Naturally, we were enraged. At first, we simply destroyed the gateway to the Sanctum in Earth, called Atlantis, pulverized the whole island into dust, making sure the residents would suffer in their deaths, the same way they made ours suffer. We ripped off skin and fingers, broke bones and shattered minds, all in revenge for our fallen brothers. We sadly could never recover their bodies. But then, they grew smarter. They left their planet and found their way into other gateways, be it through luck or purpose. So we devised a way to prevent their entry, and entertain ourselve: the trap you were in."
+
+"That's awful! But why am I alive then? And why are there no Book Hunters here?"
+
+"We were betrayed by a human hunter, who taught human leaders how to use void tools, gave them technology that advanced their civilization by centuries, and led them in a war against us, ultimately slaughtering us all by betraying the humans in the battlefield, using the tools they trusted so much to leech all their innate void energy to feed his power. Millions of humans died in that battle, hundreds of us, and only that man was left standing, alone, after butchering both man and hunter."
+
+A moment of silence fell upon the two, after which, Guardian continued.
+
+"You live for one simple reason: by observing you, I "
