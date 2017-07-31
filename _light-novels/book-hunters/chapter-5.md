@@ -33,4 +33,48 @@ Guardian paused for a bit.
 
 A moment of silence fell upon the two, after which, Guardian continued.
 
-"You live for one simple reason: by observing you, I "
+"You live for one simple reason: by observing you, I saw calm rationality. It's a trait that most humans don't possess, specially those in power, ironically. You see. when your leaders are elected by popularity, it's expected that the masses, as they are mostly backwards thinking morons, would elect a dumb fuck like them. You are the opposite. Even in the face of the unknown and the possibility of death, you calmly deduced what the trap consisted of. In a way, I guess you could say your test started when you got captured."
+
+Raynell chuckled a little, and nodded in agreement.
+
+"I can't even remember the last time we had a decent leader. I doubt history books remember, either."
+
+Both of them laughed. As they finished, the end of the tunnel approached them, and they entered what seemed to be the main area of the sanctum.
+
+<center>&diams;</center>
+
+A strong howl was heard throughout the ruins surrounding the entrance to the Sanctum, sending shivers down LL and Dean's spine.
+
+"What was that?" - asked LL, scared.
+
+"I'm going to say a local resident who noticed our presence."
+
+"No shit, but *what* is it? The info they gave us about this place didn't mention creatures capable of such a howl."
+
+"You know, it wouldn't be the first time they gave us incomplete intel."
+
+"True, but that was scary as fuck."
+
+"Man, we got these guns that could pulverize most living beings, and body armour that renders most attacks useless."
+
+"I guess that's true."
+
+In front of them, was a wide area, most likely an old plaza. Some remnants of richly-decorated floor tiles remained, indicating the area's forgotten wealth. The moon was high in the sky, filling the plaza with an eerie white light, forming gargantuan shadows from the twin spires on the opposite side of the square to where they both were standing. The buildings between the spires, half ruined, served as hiding place for a wide array of creatures that reclaimed the dead city as their own.
+
+"We were given enough equipment to handle any creature that inhabits the area, so there won't be a problem, just relax - if there is something there that we weren't prepared for, at least we have these guns and armour."
+
+From the ruined building, tens of wolves eyed the two of them, studying them and assessing whether they were a meal or something to avoid. Some of them began stealthily walking to the other ruins surrounding the square.
+
+<center>&diams;</center>
+
+The difference in light was so great that Raynell was temporarily blinded by it. Instinctively, he covered his eyes.
+
+"Hey, I've been meaning to ask, how can I see light, and now be almost blinded by it?"
+
+"Almost everything in the Sanctum is made up of or by Void Energy, so your eyes will work mostly like they normally would. When you go outside, however, that changes."
+
+"Alright."
+
+As he regained his sight, he began to notice the intimidating size of the area they entered. It was a circular tower, with at least half a kilometer in diameter, and seemed to stretch upwards indefinitely, with a mostly hollow center, save for some round platforms floating in the air every couple of floors. Every floor had bookshelves full of books with various appearances: some looked like used notebooks, others had sheets of gold... some even had covers of some sort of skin. Each floor only had small, ringlike platform of five or so meters coming out of the bases of the bookshelves. The platforms, floating and otherwise, were all made of a metallic looking substance, similar in color to mercury.
+
+The walls, what little could be seen of them between all the bookshelves, were built entirely in 
