@@ -17,7 +17,7 @@ collections:
         output: false
     light-novels:
         output: true
-        permalink: /light-novels/:title/
+        permalink: /light-novels/:path/
     expanded-universe:
         output: true
         permalink: /light-novels/:title/expanded-universe/
