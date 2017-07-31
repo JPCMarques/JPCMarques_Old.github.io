@@ -9,9 +9,9 @@ comments: true
 id: chapter-5
 ---
 
-Guardian lead Raynell out of the room. Around them, was a brightly lit hall, pure white without any decorations. Along the ceiling ran thin, bright white lines, at most 4cm thick, so bright they stood out even in the white background of the ceiling. The Guardian looked up to the veiny ceiling, and said, calmly:
+Guardian lead Raynell out of the room. Around them, was a brightly lit hall, pure white without any decorations. Along the ceiling ran thin, bright white lines, at most four centimeters thick, so bright they stood out even in the white background of the ceiling. The Guardian looked up to the veiny ceiling, and said, calmly:
 
-"To the lobby, please." - at that momemt, the light began to pulse with spots of light, much brighter than the rest of the "vein", starting to move towards the direction the guardian was looking to.
+"To the lobby, please." - at that momemt, the light began to pulse with spots of light, much brighter than the rest of the veins on the floor, starting to move towards the direction the guardian was looking to.
 
 "One thing you should immediately know, is that all the movement areas, or tools, have safety protocols put in place, so that only Book Hunters or their creations can use them. What I just did is a necessity, since if I don't do it, the hall would trap me inside of it. Kind of like what I did to you."
 
