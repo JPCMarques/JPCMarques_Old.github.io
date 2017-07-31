@@ -69,7 +69,7 @@ From the ruined building, tens of wolves eyed the two of them, studying them and
 
 The difference in light was so great that Raynell was temporarily blinded by it. Instinctively, he covered his eyes.
 
-"Hey, I've been meaning to ask, how can I see light, and now be almost blinded by it?"
+"Hey, I've been meaning to ask, how can I see colors and light, and now be almost blinded by it?"
 
 "Almost everything in the Sanctum is made up of or by Void Energy, so your eyes will work mostly like they normally would. When you go outside, however, that changes."
 
@@ -77,7 +77,7 @@ The difference in light was so great that Raynell was temporarily blinded by it.
 
 As he regained his sight, he began to notice the intimidating size of the area they entered. It was a circular tower, with at least half a kilometer in diameter, and seemed to stretch upwards indefinitely, with a mostly hollow center, save for some round platforms floating in the air every couple of floors. Every floor had bookshelves full of books with various appearances: some looked like used notebooks, others had sheets of gold... some even had covers of some sort of skin. Each floor only had small, ringlike platform of five or so meters coming out of the bases of the bookshelves. The platforms, floating and otherwise, were all made of a metallic looking substance, similar in color to mercury.
 
-The walls, what little could be seen of them between all the bookshelves, were built entirely in white stone, somewhat reflective, and decorated glass depicting several scenes of combat, creation, element manipulation, and everything else the Void made possible covered the walls, after every third bookshelf. Gazing through them, a forest extended itself for several kilometers, in the shape of a circle, as perfect as a natural occurring formation would allow, at which point they gave way to an boundless nothingness. 
+The walls, what little could be seen of them between all the bookshelves, were built entirely in white stone, somewhat reflective, and decorated glass depicting several scenes of combat, creation, element manipulation, and everything else the Void made possible covered the walls, after every third bookshelf. Gazing through them, a forest extended itself for several kilometers, in the shape of a circle, as perfect as a natural occurring formation would allow, at which point they gave way to an boundless nothingness.
 
 At opposite sides of the forest's edge, emulating the main cardinal points, four towering spires stood tall at 1, made up of pitch black material, flawless and undecorated, with extremely bright pure white octahedrons hovering above each tower emitting the dazing light that illuminated the whole forest and tower, and yet seemed unable to illuminate the vast nothingness around the forest.
 
