@@ -77,4 +77,60 @@ The difference in light was so great that Raynell was temporarily blinded by it.
 
 As he regained his sight, he began to notice the intimidating size of the area they entered. It was a circular tower, with at least half a kilometer in diameter, and seemed to stretch upwards indefinitely, with a mostly hollow center, save for some round platforms floating in the air every couple of floors. Every floor had bookshelves full of books with various appearances: some looked like used notebooks, others had sheets of gold... some even had covers of some sort of skin. Each floor only had small, ringlike platform of five or so meters coming out of the bases of the bookshelves. The platforms, floating and otherwise, were all made of a metallic looking substance, similar in color to mercury.
 
-The walls, what little could be seen of them between all the bookshelves, were built entirely in 
+The walls, what little could be seen of them between all the bookshelves, were built entirely in white stone, somewhat reflective, and decorated glass depicting several scenes of combat, creation, element manipulation, and everything else the Void made possible covered the walls, after every third bookshelf. Gazing through them, a forest extended itself for several kilometers, in the shape of a circle, as perfect as a natural occurring formation would allow, at which point they gave way to an boundless nothingness. 
+
+At opposite sides of the forest's edge, emulating the main cardinal points, four towering spires stood tall at 1, made up of pitch black material, flawless and undecorated, with extremely bright pure white octahedrons hovering above each tower emitting the dazing light that illuminated the whole forest and tower, and yet seemed unable to illuminate the vast nothingness around the forest.
+
+The forest itself did not have any major mountainous areas, it was for the most part comparable to a plains with trees planted on top of it. Around the sanctum itself, the vegetation was noticeably smaller, with a circular area around it of only small grass, stretching for tens of meters and gradually giving way to taller grass, which eventually gave way to taller and taller trees until the edge of the forest was reached.
+
+The Sanctum had four gates to the outside, each pointing to the middle of the area between the two closest spires. Inside, there were several tables and chairs in the ground floor and each platform, as well as several stands specific for book deliveries.
+
+Raynell couldn't help but keep his mouth wide open in amazement at the beauty of the Sanctum.
+
+"Welcome to the Sanctum. This will be your new home, should you choose to pursue your unique capabilities."
+
+"This is... incredible!"
+
+"Yeah, this is the creation of one of the first Void Manipulators, who we call simply *Ancient One*. He created this place to be fully automated and serve all the needs of any Book Hunter, which only then began to emerge. He was one of the strongest manipulators to ever live, specializing in dimensional and terraforming magic. He also wrote some of the earliest texts in the subject, which are, to this day, seen as the Bible of their respective areas."
+
+"Thanks for the history lesson, but why is this place so empty?"
+
+"Like I told you already, both the humans and Book Hunters were betrayed and slaughtered by the one who betrayed us. In this Sanctum, you are the only hunter."
+
+"Right, sorry, I completely forgot amidst my amazement of this place. So, how do I go about reading new books? And how do I access the higher platforms?"
+
+"Each platform requires a different power level from you to access. As you can imagine, the lower level is the most basic one, and all hunters have access to it. In the center of each platform" - it paused, to point at the middle of the current level - "is one of those. They direct you to whatever book you want, and transport you to the platform you want to access, should you have the power needed. They also serve as power judges, which test you for the usable power you have, and show you your current level."
+
+"Uhh that's a bit confusing but I guess I'll get the hang of it. Where do I go, should I want to train my skills?"
+
+"You can also ask that to the central area, it will direct you to the proper training room. Or you can also call for me and I'll take you there. It does the same for your sleeping quarters. Hell, you can ask it to show you where *anything* in this place is."
+
+"Well, damn, that is awesome!"
+
+"Yes."
+
+"What about the forest out there?"
+
+"Its the actual combat training ground for hunters. The deeper you go, the harder it will be to kill the creatures inside. Beware though, as all the creatures inside it are void manipulators themselves, although primal and basic ones. In the deeper parts, however, some reach sentience and can be even smarter than a regular sentient being. You can go all out there, the forest regenerates itself every day. Do note, however, that the monster do not, only through their conventional breeding."
+
+"Didn't Void Manipulators need to be at least rational? And why didn't they overtake the Sanctum yet?"
+
+"Void Manipulation is an instinctive skill, so why would it be so hard to conceive that beings of pure instict, such as monsters and animals, wouldn't be able to use it? And the Sanctum is protected from them, by only allowing hunters inside and banning all the monsters."
+
+"Seeing as they are sentient, don't they fight between eachother for dominance?"
+
+"To some extent. There hasn't been a direct conflict between any high-ranking beasts in millenia, they usually use their underlings to fight. No need to be concerned though, just restrain yourself from *actually* killing any beasts in the forest, or soon you will become the hunted. If possible, incapacitate the monster."
+
+<center>&diams;</center>
+
+The wolves fully surrounded the plaza, completely undetected by armoured duo. Suddenly, a second howl was heard, this time much closer, and startling the wolves to the point they ran away in fear.
+
+"OK Dean now, that was much closer and scarier."
+
+"Don't worry dude..."
+
+"Fuck off, that was much closer than earlier!"
+
+"Chill, it's nothing these weapons can't handle."
+
+From the ruins opposite to them, between two buildings, a wolf at least five times larger than nromal walked calmly towards the two. From all of it's four legs, and it's two eyes, black energy flowed upwards into the air. Drool flowed down its mouth, as the wolf licked it, before starting to run towards them, howling a third and final time.
