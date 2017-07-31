@@ -103,7 +103,7 @@ Raynell couldn't help but keep his mouth wide open in amazement at the beauty of
 
 "Uhh that's a bit confusing but I guess I'll get the hang of it. Where do I go, should I want to train my skills?"
 
-"You can also ask that to the central area, it will direct you to the proper training room. Or you can also call for me and I'll take you there. It does the same for your sleeping quarters. Hell, you can ask it to show you where *anything* in this place is."
+"You can also ask that to the central area, it will direct you to the proper training room. Or you can also call for me and I'll take you there. It does the same for your sleeping quarters. Hell, you can ask it to show you where *anything* in this place is, in the same manner we were shown the way here from the medical room."
 
 "Well, damn, that is awesome!"
 
