@@ -1,9 +1,10 @@
 ---
-layout: subpage
+layout: expanded-universe-motherpage
+title: Book Hunters Expanded Universe
+motherID: bheu
+relativenavbar: true
 navbar:
-    - Back: light-novels/book-hunters
-title: The Book Hunters
-sidebarClass: sidebar
+  - Back: ../../book-hunters
 ---
 
 Welcome to the Book Hunters' expanded universe!

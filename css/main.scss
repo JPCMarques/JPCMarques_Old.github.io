@@ -27,6 +27,7 @@ nav {
   color: $text_color;
   text-align: justify;
   text-justify: inter-word;
+  text-indent: 20px;
   margin-left: 5% ;
   max-width: 95%;
 }
@@ -128,4 +129,21 @@ pre {
 code {
   font-family: Consolas,Menlo,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New,monospace,sans-serif;
   background-color: #eff0f1;
+}
+
+blockquote {
+  text-align: center;
+  color: #97a9c6;
+  font-style: italic;
+  font-family: 'Damion', cursive;
+  font-size: 20px;
+}
+
+.highlighter-rouge {
+  text-indent: 0px !important;
+}
+
+.footnotes {
+  font-style: italic;
+  font-size: 12px;
 }

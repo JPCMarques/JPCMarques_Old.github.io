@@ -20,7 +20,7 @@ collections:
         permalink: /light-novels/:path/
     expanded-universe:
         output: true
-        permalink: /light-novels/:title/expanded-universe/
+        permalink: /light-novels/expanded-universe/:path/
     book-reviews:
         output: true
         permalink: /book-reviews/:path/
