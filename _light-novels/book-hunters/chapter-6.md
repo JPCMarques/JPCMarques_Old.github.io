@@ -59,4 +59,22 @@ Until then, his legs were hurting, But after his last shout, they stopped, and h
 
 The injured dwo fell down, coming out of the bottom of the smoke, and crashing into the ground. As the smoke cleared, Raynell emerged unscathed, looking at his arms, fascinated by his own power. He looked down, watching the wolf moving towards his friends, slowly. It didn't seem to have noticed him.
 
-*I have a chance here, it still hasn't detected me. Sure, but you hardly control your power, how do you expect to actually damage the thing?*
+*I have a chance here, it still hasn't detected me. Sure, but you hardly control your power, how do you expect to actually damage the thing? Guess we'll have to find out, can't let 'em die.. If you say so.*
+
+He watched the wolf slowly approach his friends, maintaining his foothold in the sky with void platforms underneath each of his feet. At each step of the wolf, he grew more restless and nervous, as it approached his friends. When it was only a few meters away, he let himself fall, and boosted his fall with other void platforms. He gathered his energy on his right fist as he prepared to punch the wolf.
+
+*Its going to hit it!* - he thought, but just as his fist was about to meet the fur of the wolf, it moved, so fast it seemed it had teleported away, about ten meters backwards. Raynell couldn't help but stare at the wolf, who had what seemed to be a grin plastered over its face, before he inevitably collided with the already cracked floor, cracking it further and unleashing a wave of void energy, which reached his friends and the wolf, that just stood there.
+
+He Instinctively looked at his friends, watching as the wave of void receded. They seemed to be unscathed, but that moment of distraction was enough for the wolf's jaw to be around him. Instinctively, attempting to grab the wolf's jaw to stop it from snapping him in two, Raynell held out his arms, getting his hands impaled by fangs, but managing to nevertheless prevent the wolf from biting him, while Raynell yelled in pain from the force he was exerting and the piercing of his hands, gushing out blood mixed with void particles, glistening the bright moonlight.
+
+The wolf applied more force with its mouth, first by opening it slightly, forcing Raynell's muscles to relax, then by suddenly closing it with even more explosive strength than earlier, forcing Raynell's elbows to meet his waist, as he could almost feel the fangs touching his body. He yelled even more in pain, of the inhumane force he had to apply to prevent his own death, when suddenly he looked ahead and saw Dean and LL staring directly at his eyes, in a mix of fear and surprise.
+
+"R-Ray?" - they asked, in unison.
+
+He felt a surge of strength, forcing his arms to extend in an explosion of void energy that extended for several tens of meters.
+
+The area around him was covered in dust from the stone that got completely pulverized by his energy, flowing outwards from the center as the cloud of dust dispersed, revealing Raynell with his head facing the beautiful night sky, as sweat dripped down his face, his arms just hanging there as his knees met the floor as he fell, in tiredom. The blood kept flowing out of his hands, forming a puddle on the floor. He let his head fall, his chin almost touching his chest as he gazed at his own blood mixed with all the dust around him. He watched it flow for a moment, amazed at the monochrome of the sight in front of him, caused by the new eyes he was granted.
+
+He watched as the blood flowed further away from him, until he saw it meet another pool of blood, much less bright than his. He looked up a bit more. In front of him, laid two crushed corpses, their crushed faces forever ingrained in Raynell's memory: the last expression of his two, and only, friends, was one of pure horror at himself.
+
+He screamed into the night, his shout akin to the wolf's howl, which too, laid next to him, it jaw snapped wide open, in an unnatural angle, as its void energy flowed into Raynell's back, until it looked like a simply big wolf.
