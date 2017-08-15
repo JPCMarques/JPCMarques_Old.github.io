@@ -3,10 +3,10 @@ layout: book-hunters
 relativenavbar: true
 navbar:
     - Back: ..
-#mother: bh
+mother: bh
 title: Recklessness
 comments: true
-id: chapter-5
+id: chapter-6
 ---
 
 As it ran, the  became cracked, with some remnants of void oozing out of the cracks.
