@@ -2,8 +2,7 @@
 layout: book-hunters
 relativenavbar: true
 navbar:
-    - Back: ..
-#mother: bh
+  - Back: ..
 title: Shattered
 comments: true
 id: chapter-7
