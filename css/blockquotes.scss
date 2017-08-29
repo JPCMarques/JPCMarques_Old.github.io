@@ -1,0 +1,29 @@
+---
+---
+
+blockquote {
+  text-align: left;
+  color: #97a9c6;
+  font-style: italic;
+  font-family: 'Annie Use Your Telescope', cursive;
+  font-size: 20px;
+}
+
+.blockquoteHeader {
+  @extend blockquote;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+bqh {
+  @extend .blockquoteHeader;
+}
+
+.blockquoteSignature {
+  @extend blockquote;
+  text-align: right;
+}
+
+bqhsig{
+  @extend .blockquoteSignature;
+}
