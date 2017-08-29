@@ -3,13 +3,13 @@ layout: default
 ---
 <header style="position: relative">
     <h1 class="a-text" style="float:left">{{page.title}}</h1>
-    <nav style="float: right; padding-top: 25px; padding-bottom: 25px">
-        <a href="{{site.baseurl}}/" style="padding-left: 10px">Home</a>
-        <a href="{{site.baseurl}}/about/" style="padding-left: 10px">About</a>
-        <a href="{{site.baseurl}}/light-novels/" style="padding-left: 10px">Light Novels</a>
-        <a href="{{site.baseurl}}/book-reviews/" style="padding-left: 10px">Book Reviews</a>
-        <!--<a href="{{site.baseurl}}/study-wiki/" style="padding-left: 10px">Study Wiki</a> -->
-        <a href="{{site.baseurl}}/applications/" style="padding-left: 10px">Apps</a>
+    <nav style="float: right; padding-top: 25px; padding-bottom: 25px; display: flex">
+        <a class="navbarButton" href="{{site.baseurl}}/">Home</a>
+        <a  class="navbarButton" href="{{site.baseurl}}/about/" >About</a>
+        <a  class="navbarButton" href="{{site.baseurl}}/light-novels/" >Light Novels</a>
+        <a class="navbarButton"  href="{{site.baseurl}}/book-reviews/" >Book Reviews</a>
+        <!--<a class="navbarButton"  href="{{site.baseurl}}/study-wiki/">Study Wiki</a> -->
+        <a class="navbarButton"  href="{{site.baseurl}}/applications/">Apps</a>
     </nav>
 </header>
 

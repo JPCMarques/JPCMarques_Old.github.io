@@ -131,13 +131,6 @@ code {
   background-color: #eff0f1;
 }
 
-blockquote {
-  text-align: center;
-  color: #97a9c6;
-  font-style: italic;
-  font-family: 'Annie Use Your Telescope', cursive;
-  font-size: 20px;
-}
 
 .highlighter-rouge {
   text-indent: 0px !important;
@@ -146,4 +139,16 @@ blockquote {
 .footnotes {
   font-style: italic;
   font-size: 12px;
+}
+
+.navbarButton:hover {
+  color: white;
+  background-color: $a_color;
+  border-radius: 2  px;
+}
+
+.navbarButton {
+  color: $a_color;
+  padding: 10px;
+  background-color: white;
 }

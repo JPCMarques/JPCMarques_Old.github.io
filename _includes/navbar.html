@@ -6,9 +6,9 @@
         {% for navbar-data in page.navbar %}
         {% for navbar-item in navbar-data %}
         {% if page.relativenavbar == true %}
-        <a href="{{navbar-item[1]}}/" style="padding-left: 10px">{{navbar-item[0]}}</a>
+        <a class="navbarButton" href="{{navbar-item[1]}}/">{{navbar-item[0]}}</a>
         {% else %}
-        <a href="{{site.baseurl}}/{{navbar-item[1]}}/" style="padding-left: 10px">{{navbar-item[0]}}</a>
+        <a class="navbarButton" href="{{site.baseurl}}/{{navbar-item[1]}}/" >{{navbar-item[0]}}</a>
         {% endif %}
         {% endfor %}
         {% endfor %}
@@ -18,9 +18,9 @@
         {% for navbar-data in layout.navbar %}
         {% for navbar-item in navbar-data %}
         {% if page.relativenavbar == true %}
-        <a href="{{navbar-item[1]}}/" style="padding-left: 10px">{{navbar-item[0]}}</a>
+        <a class="navbarButton" href="{{navbar-item[1]}}/" >{{navbar-item[0]}}</a>
         {% else %}
-        <a href="{{site.baseurl}}/{{navbar-item[1]}}/" style="padding-left: 10px">{{navbar-item[0]}}</a>
+        <a class="navbarButton" href="{{site.baseurl}}/{{navbar-item[1]}}/" >{{navbar-item[0]}}</a>
         {% endif %}
         {% endfor %}
         {% endfor %}
