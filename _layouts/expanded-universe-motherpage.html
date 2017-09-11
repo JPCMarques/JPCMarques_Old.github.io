@@ -7,7 +7,7 @@ sidebarClass: sidebar
 <ul>
 {% for eu in site.expanded-universe %}
   {% if eu.url contains page.url %}
-    {% unless eu.title == page.title or eu.mother != page.motherID or page.ignore contains eu.title %}
+    {% unless eu.title == page.title or eu.mother != page.motherID or page.ignore contains eu.title or eu.url contains page.ignore %}
     <li> <a href="{{eu.url}}">{{eu.title}}</a> </li>
     {% endunless %}
   {% endif %}

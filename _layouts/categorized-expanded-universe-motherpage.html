@@ -1,0 +1,29 @@
+---
+layout: subpagedir
+sidebarClass: sidebar
+---
+{{content}}
+
+<ul>
+
+{% if page.categories %}
+    {% for category in page.categories %}
+        <h3>{{category}}</h3>
+        {% for eu in site.expanded-universe %}
+            {% if eu.url contains page.url and eu.category == category %}
+                {% unless eu.title == page.title or eu.mother != page.motherID or page.ignore contains eu.title or eu.url contains page.ignore %}
+                    <li> <a href="{{eu.url}}">{{eu.title}}</a> </li>
+                {% endunless %}
+            {% endif %}
+        {% endfor %}
+    {% endfor %}
+{% else %}
+    {% for eu in site.expanded-universe %}
+        {% if eu.url contains page.url %}
+            {% unless eu.title == page.title or eu.mother != page.motherID or page.ignore contains eu.title or eu.url contains page.ignore %}
+                <li> <a href="{{eu.url}}">{{eu.title}}</a> </li>
+            {% endunless %}
+        {% endif %}
+    {% endfor %}
+{% endif %}
+</ul>

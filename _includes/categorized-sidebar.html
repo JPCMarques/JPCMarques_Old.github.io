@@ -1,0 +1,18 @@
+
+{% if page.sidebarlinks %}
+
+<div class="sidebar no-print">
+{% for category in page.sidebarlinks %}
+  {% for data in category %}
+    <sbh>{{data[0]}}</sbh><br style="clear:both"/>
+    <ul>
+      {% for inner_data in data[1] %}
+        <li>
+          <a href="{{page.url}}#{{inner_data}}">{{inner_data}}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  {% endfor %}
+{% endfor %}
+</div>
+{% endif %}

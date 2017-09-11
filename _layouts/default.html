@@ -7,6 +7,7 @@
   <link href="https://fonts.googleapis.com/css?family=Annie+Use+Your+Telescope" rel="stylesheet">
   <link rel="stylesheet" href="/css/main.css" />
   <link rel="stylesheet" href="/css/blockquotes.css" />
+  <link rel="stylesheet" href="/css/sidebar.css" />
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
   {% for script in page.scripts %}
   <script type="text/javascript" src="{{site.baseurl}}{{script.src}}"></script>
@@ -21,7 +22,10 @@
   <hr style="clear:both">
 
   <footer>
-    <p class="regular-text" style="margin-left: 0">Copyright © 2017 JPCMarques</p>
+    <div style="float:right;">
+      <a href="https://www.patreon.com/bePatron?u=7258184" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+    </div>
+    <p class="regular-text" style="margin-left: 0; float: left">Copyright © 2017 JPCMarques</p>
   </footer>
 </body>
 
