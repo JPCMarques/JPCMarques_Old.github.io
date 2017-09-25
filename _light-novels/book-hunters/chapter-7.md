@@ -5,6 +5,7 @@ navbar:
   - Back: ..
 title: Shattered
 comments: true
+mother: bh
 id: chapter-7
 ---
 Raynell kept yelling until he could do so no more. Gradually, his blood receded into his body, and the wounds on his hands closed up. But, he stood there, looking at the pure white moon, as he could not direct his look at the scene of his lack of control, that cost his friends' life and his mind.
