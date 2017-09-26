@@ -106,3 +106,13 @@ The council all seemed to nod at the same time, agreeing with their leader.
 
 "Yes, sir." - he said, bowing slightly as he walked back through the opening in the table, then turning around and heading to the shadowed door in front of him, the only light in the room illuminating the table.
 
+
+As Dibalt closed the door, he did a second submissive bow. The man directly to the left of the Council Leader asked, worried:
+
+"Are you sure it's a good idea to send that powder keg to a diplomatic meeting?"
+
+"Yes. Dibalt may have some aggressive ideas of his own, but he will follow orders, even if he does not agree with them. Azil, could you please handle the selection of the ambassadors?"
+
+"Of course, sir" - the man to his right responded.
+
+"Thanks, I'm counting on you." 
