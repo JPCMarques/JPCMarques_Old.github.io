@@ -3,7 +3,7 @@ highlighter: rouge
 baseurl: ""
 exclude: ["README.md", "Gemfile", "Gemfile.lock", "_apps/rsappcentral.md"]
 title: JPCMarques' personal website
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 permalink: pretty
 repository: JPCMarques/JPCMarques.github.io.git
 sass:
