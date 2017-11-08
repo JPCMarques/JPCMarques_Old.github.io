@@ -1,3 +1,14 @@
+---
+layout: book-hunters
+relativenavbar: true
+navbar:
+  - Back: ..
+title: Darkness
+comments: true
+mother: bh
+id: chapter-8
+---
+
 Raynell was lead into his room, on the ground floor of the tower. It was small, only possessing the bare minimum of amenities: a couple's bed, bathroom, and a secretary, no chair.
 
 "This will be your room in the Sanctum. Even if you change floors, the room will be the same, except for the fact that each ascended level increases its space and features, which you will learn about some other time. For now, just focus on resting."
